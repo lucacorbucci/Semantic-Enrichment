@@ -1,0 +1,14 @@
+plotly
+networkx
+pandas
+psycopg2-binary
+numpy
+jupyter
+nltk
+matplotlib
+pymedtermino
+gensim
+scikit-learn
+theano
+scikit-multilearn
+strsim==0.0.3
