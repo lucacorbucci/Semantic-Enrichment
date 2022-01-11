@@ -1,5 +1,5 @@
 import numpy as np
-from lib.embedding_utils import EmbeddingUtils
+from lib.embedding_utils import EmbeddingUtils, EmbeddingType
 from sklearn.metrics.pairwise import cosine_similarity
 import matplotlib.pyplot as plt
 from numpy.lib.stride_tricks import sliding_window_view
@@ -20,7 +20,7 @@ class UtilsSimilarity:
 
         return similarity
 
-    def rolling_window_embedding(self, note: list[str], window_size: int, model):
+    def rolling_window_embedding(self, note, window_size: int, embedding):
         """Summary or Description of the Function
 
         Parameters:
@@ -37,15 +37,21 @@ class UtilsSimilarity:
         embedded_windows = []
 
         for window in windows:
-            embedded_windows.append(
-                EmbeddingUtils().compute_window_embedding(model, window)
-            )
+            if embedding.embedding_type == EmbeddingType.BIOWORDVEC:
+                embedded_windows.append(
+                    EmbeddingUtils().compute_window_embedding(embedding.model, window)
+                )
+            else:
+                joined_window = " ".join(window)
+                embedded_windows.append(
+                    EmbeddingUtils().compute_embeddings(embedding, joined_window)
+                )
+            
+            
             list_windows.append(window)
         return list_windows, embedded_windows
 
-    """
-
-    """
+    
 
     def find_most_similar_part_in_the_note(self, df, model, relation_dict):
         codes = []
@@ -79,10 +85,6 @@ class UtilsSimilarity:
                     codes.append(ICD9)
                     windowed_notes.append(best_window.copy())
         return codes, windowed_notes
-
-    """
-
-    """
 
     def find_best_window(
         self,
@@ -120,9 +122,6 @@ class UtilsSimilarity:
                         all_similarities[window_size] = [best_similarity]
         return all_similarities
 
-    """
-
-    """
 
     def compute_mean_per_window_size(self, all_similarities: dict):
         size = []
@@ -134,10 +133,7 @@ class UtilsSimilarity:
             mean.append(np.mean(similarity_values))
         return size, mean
 
-    """
-
-    """
-
+    
     def plot_window_analysis(self, window_length, mean_for_plot, relation):
         fig, ax = plt.subplots()
         fig.set_size_inches(12, 7)

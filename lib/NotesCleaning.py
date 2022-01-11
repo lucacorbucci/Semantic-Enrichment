@@ -1124,7 +1124,7 @@ class NotesCleaning:
         )
         return notes_csv
 
-    def clean_sentence(self, sentence: str) -> list[str]:
+    def clean_sentence(self, sentence: str):
         cleaned = sentence.lower()
         cleaned = self.remove_punctuation(cleaned)
         cleaned = cleaned.split(" ")
@@ -1159,17 +1159,14 @@ class NotesCleaning:
 
     def remove_abbreviations(self, note, abbreviations):
         cleaned_abbr = []
-        for item in note.strip().split():
-            abb = item.upper()
-            meaning = abbreviations[
-                abbreviations["Abbreviation/Shorthand"] == abb
-            ].Meaning.values
-            if len(meaning) > 0 and len(abb) > 2:
-                tmp_meaning = meaning[0].split(" ")
+        for word in note.strip().split():
+            meaning = abbreviations.get(word, None)
+            if meaning:
+                tmp_meaning = meaning.split(" ")
                 for word in tmp_meaning:
                     cleaned_abbr.append(word)
-            elif len(item) > 2:
-                cleaned_abbr.append(item)
+            else:
+                cleaned_abbr.append(word)
         return cleaned_abbr
 
     def clean_note_and_remove_abbreviations(self, note, abbreviations):

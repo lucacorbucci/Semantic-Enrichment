@@ -2,7 +2,7 @@ import pandas as pd
 
 
 class Utils:
-    def find_diabetes_HADMID(self, df: pd.DataFrame) -> list[str]:
+    def find_diabetes_HADMID(self, df: pd.DataFrame):
         HADM_ID = set()
         for _, row in df.iterrows():
             if "25000" in eval(row["ICD9_CODE"]):

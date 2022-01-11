@@ -1,0 +1,663 @@
+2021-11-22 18:53:15,070 Loading the model
+2021-11-22 18:54:34,448 model successfully loaded
+2021-11-22 18:54:36,664 CSV loaded
+2021-11-22 18:54:36,783 Starting to extract sentences...
+[brain structure, 0.33203521370887756, ['depressive' 'disorder' 'of' 'schizophrenia' 'and' 'bipolar' 'disorder']] []
+[] []
+[] []
+[severe recurrent major depression with psychotic features, 0.6031979322433472, ['major' 'depressive' 'disorder' 'of' 'schizophrenia' 'and' 'bipolar'
+ 'disorder' 'hypertension' 'bilateral']] []
+[] []
+[] []
+[] []
+[schizophrenia, 0.7006433010101318, ['major' 'depressive' 'disorder' 'of' 'schizophrenia' 'and' 'bipolar'
+ 'disorder' 'hypertension' 'bilateral']] []
+[endocrine gonad, 0.24338360130786896, ['blood' 'type' 'art' 'temp' 'po' 'pco' 'ph']] [digestive structure, 0.22260279953479767, ['discharge' 'diagnosis' 'primary' 'altered' 'mental' 'status'
+ 'respiratory'], endocrine pancreatic structure, 0.22542016208171844, ['an' 'outpatient' 'as' 'needed' 'his' 'tsh' 'was'], endocrine structure, 0.2040489912033081, ['outpatient' 'as' 'needed' 'his' 'tsh' 'was' 'slightly']]
+[] []
+[] []
+[type ii diabetes mellitus without complication, 0.48151564598083496, ['as' 'an' 'outpatient' 'for' 'further' 'blood' 'pressure' 'control'
+ 'diabetes' 'mellitus']] []
+[liver structure, 0.23644588887691498, ['totbili' 'pm' 'blood' 'alt' 'ast' 'ld' 'ldh']] [digestive system subdivision, 0.1957719624042511, ['sex' 'service' 'medicine' 'allergies' 'codeine' 'attending' 'chief']]
+[infectious disease, 0.3298719525337219, ['dr' 'you' 'primary' 'care' 'physician' 'in' 'the' 'next' 'weeks']] []
+[chronic inflammation, 0.2881622910499573, ['pain' 'osa' 'the' 'patient' 'has' 'history' 'of']] []
+[chronic hepatitis c, 0.374731183052063, ['at' 'home' 'hepatits' 'aborted' 'course' 'of' 'interferon' 'major'
+ 'depressive' 'disorder']] []
+[] []
+[] []
+[] []
+[tobacco user, 0.42796239256858826, ['as' 'an' 'outpatient' 'tobacco' 'abuse' 'he' 'was' 'started' 'on'
+ 'nicotine']] []
+[endocrine pancreatic structure, 0.2711964547634125, ['aggressive' 'insulin' 'regimen' 'here' 'is' 'the' 'diabetes']] [digestive structure, 0.19458989799022675, ['discharge' 'diagnosis' 'primary' 'respiratory' 'distress' 'fluid'
+ 'overload'], endocrine structure, 0.21583832800388336, ['tsh' 'was' 'normal' 'and' 'has' 'not' 'been'], endocrine gonad, 0.2646801471710205, ['tsh' 'pm' 'blood' 'type' 'art' 'po' 'pco']]
+[] []
+[] []
+[type ii diabetes mellitus without complication, 0.4924995005130768, ['diabetes' 'mellitus' 'pt' 'has' 'difficult' 'to' 'control' 'dm' 'on'
+ 'metformin']] []
+[] []
+[] []
+[] []
+[schizophrenia, 0.7006433010101318, ['major' 'depressive' 'disorder' 'of' 'schizophrenia' 'and' 'bipolar'
+ 'disorder' 'hypertension' 'bilateral']] []
+[] []
+[] []
+[] []
+[tobacco user, 0.3256251811981201, ['aver' 'years' 'of' 'use' 'cocaine' 'with' 'heroin' 'use' 'family'
+ 'history']] []
+[lung structure, 0.334750235080719, ['lungs' 'basilar' 'crackles' 'that' 'improve' 'with' 'cough']] [structure of interstitial tissue of lung, 0.29417258501052856, ['from' 'osa' 'copd' 'exacerbation' 'pulmonary' 'edema' 'in']]
+[] []
+[] []
+[pulmonary congestion and hypostasis, 0.39019009470939636, ['of' 'mild' 'volume' 'overload' 'on' 'examination' 'and' 'chest' 'xray'
+ 'and']] []
+[digestive structure, 0.2281564474105835, ['hospital' 'discharge' 'diagnosis' 'primary' 'copd' 'exacerbation'
+ 'pulmonary']] [endocrine pancreatic structure, 0.21008938550949097, ['hospital' 'discharge' 'diagnosis' 'primary' 'copd' 'exacerbation'
+ 'pulmonary'], endocrine structure, 0.18094025552272797, ['medical' 'history' 'type' 'dm' 'has' 'been' 'followed'], endocrine gonad, 0.22075466811656952, ['qid' 'buspirone' 'mg' 'glipizide' 'er' 'mg' 'metformin']]
+[] []
+[] []
+[type ii diabetes mellitus without complication, 0.38327091932296753, ['medical' 'history' 'type' 'dm' 'has' 'been' 'followed' 'at' 'osa' 'on']] []
+[endocrine gonad, 0.2416813224554062, ['pulmonary' 'exam' 'his' 'abg' 'showed' 'pco' 'lactate']] [digestive structure, 0.1923198252916336, ['many' 'respiratory' 'side' 'effects' 'you' 'should' 'also'], endocrine pancreatic structure, 0.2413003146648407, ['buspirone' 'mg' 'po' 'bid' 'glipizide' 'er' 'po'], endocrine structure, 0.18510957062244415, ['they' 'are' 'correct' 'department' 'square' 'primary' 'care']]
+[] []
+[] []
+[type ii diabetes mellitus without complication, 0.4261312186717987, ['past' 'history' 'of' 'diabetes' 'chronic' 'lower' 'leg' 'pain' 'copd'
+ 'obesity']] []
+[digestive system subdivision, 0.19580350816249847, ['service' 'facility' 'health' 'systems' 'discharge' 'diagnosis' 'obesity']] [liver structure, 0.19533097743988037, ['overdose' 'copd' 'exacerbation' 'discharge' 'condition' 'mental'
+ 'status']]
+[infectious disease, 0.3111717700958252, ['psychiatry' 'consulted' 'and' 'recommended' 'continuation' 'of' 'xanax'
+ 'during' 'taper']] []
+[chronic inflammation, 0.32337087392807007, ['chronic' 'pain' 'he' 'has' 'severe' 'debilitating' 'chronic']] []
+[chronic hepatitis c, 0.374731183052063, ['at' 'home' 'hepatits' 'aborted' 'course' 'of' 'interferon' 'major'
+ 'depressive' 'disorder']] []
+[] []
+[] []
+[] []
+[tobacco user, 0.443543940782547, ['attends' 'day' 'program' 'tobacco' 'smokes' 'ppd' 'for' 'yrs' 'alcohol'
+ 'no']] []
+[endocrine gonad, 0.2416813224554062, ['pulmonary' 'exam' 'his' 'abg' 'showed' 'pco' 'lactate']] [digestive structure, 0.1923198252916336, ['many' 'respiratory' 'side' 'effects' 'you' 'should' 'also'], endocrine pancreatic structure, 0.2413003146648407, ['buspirone' 'mg' 'po' 'bid' 'glipizide' 'er' 'po'], endocrine structure, 0.18510957062244415, ['they' 'are' 'correct' 'department' 'square' 'primary' 'care']]
+[immune hypersensitivity reaction, 0.22196078300476074, ['service' 'medicine' 'allergies' 'codeine' 'attending' 'chief'
+ 'complaint' 'lethargy' 'major']] []
+[] []
+[on subcutaneous insulin for diabetes mellitus, 0.5353822708129883, ['in' 'the' 'future' 'diabetes' 'patient' 'was' 'continued' 'on' 'home'
+ 'insulin']] [long-term current use of insulin, 0.45715636014938354, ['in' 'the' 'future' 'diabetes' 'patient' 'was' 'continued' 'on' 'home'
+ 'insulin'], pre-existing diabetes mellitus, insulin-dependent, 0.3712877929210663, ['past' 'history' 'of' 'diabetes' 'chronic' 'lower' 'leg' 'pain' 'copd'
+ 'obesity']]
+[] []
+[] []
+[] []
+[schizophrenia, 0.7006433010101318, ['major' 'depressive' 'disorder' 'of' 'schizophrenia' 'and' 'bipolar'
+ 'disorder' 'hypertension' 'bilateral']] []
+[endocrine pancreatic structure, 0.22932642698287964, ['diagnosis' 'altered' 'mental' 'status' 'obesity' 'diabetes' 'mellitus']] [digestive structure, 0.202871173620224, ['medication' 'changes' 'lisinopril' 'stopped' 'alprazolam' 'changed'
+ 'from'], endocrine structure, 0.20720265805721283, ['mental' 'status' 'obesity' 'diabetes' 'mellitus' 'type' 'ii'], endocrine gonad, 0.22496262192726135, ['on' 'his' 'home' 'insulin' 'and' 'iss' 'metformin']]
+[] []
+[] []
+[type ii diabetes mellitus without complication, 0.5345444083213806, ['diagnosis' 'altered' 'mental' 'status' 'obesity' 'diabetes' 'mellitus'
+ 'type' 'ii' 'chronic']] []
+[liver structure, 0.2842201292514801, ['hepatic' 'steatosis' 'as' 'confirmed' 'on' 'ct' 'he']] [digestive system subdivision, 0.1957719624042511, ['sex' 'service' 'medicine' 'allergies' 'codeine' 'attending' 'chief']]
+[infectious disease, 0.3923794627189636, ['pursuing' 'infectious' 'work' 'up' 'chronic' 'issues' 'chronic' 'pain'
+ 'on']] []
+[chronic inflammation, 0.34267809987068176, ['infectious' 'work' 'up' 'chronic' 'issues' 'chronic' 'pain']] []
+[chronic hepatitis c, 0.374731183052063, ['at' 'home' 'hepatits' 'aborted' 'course' 'of' 'interferon' 'major'
+ 'depressive' 'disorder']] []
+[] []
+[] []
+[] []
+[schizoaffective disorder, 0.4768683910369873, ['disorder' 'of' 'schizophrenia' 'and' 'bipolar' 'disorder' 'hypertension'
+ 'bilateral' 'avascular' 'necrosis']] []
+[] []
+[] []
+[] []
+[tobacco user, 0.443543940782547, ['attends' 'day' 'program' 'tobacco' 'smokes' 'ppd' 'for' 'yrs' 'alcohol'
+ 'no']] []
+[digestive system subdivision, 0.2005215734243393, ['mediastinum' 'and' 'should' 'be' 'advanced' 'endotracheal' 'tube']] [liver structure, 0.174809530377388, ['disposition' 'home' 'discharge' 'diagnosis' 'hypoxic' 'respiratory'
+ 'failure']]
+[infectious disease, 0.3059408664703369, ['fever' 'chills' 'cough' 'his' 'lungs' 'were' 'felt' 'to' 'be']] []
+[chronic inflammation, 0.3296917676925659, ['baseline' 'normal' 'function' 'chronic' 'issues' 'chronic' 'pain']] []
+[chronic hepatitis c, 0.44741716980934143, ['medication' 'adjustment' 'hcv' 'failed' 'interferon' 'course'
+ 'outpatient' 'fu' 'as' 'directed']] []
+[endocrine gonad, 0.21896551549434662, ['date' 'date' 'of' 'birth' 'sex' 'service' 'medicine']] [digestive structure, 0.1820509284734726, ['discharge' 'disposition' 'home' 'discharge' 'diagnosis' 'hypoxic'
+ 'respiratory'], endocrine pancreatic structure, 0.20439301431179047, ['psychiatrist' 'diabetes' 'home' 'meds' 'metformin' 'glipizide' 'novolog'], endocrine structure, 0.18447743356227875, ['baseline' 'normal' 'function' 'chronic' 'issues' 'chronic' 'pain']]
+[] []
+[] []
+[type ii diabetes mellitus without complication, 0.42452502250671387, ['these' 'changes' 'with' 'his' 'psychiatrist' 'diabetes' 'home' 'meds'
+ 'metformin' 'glipizide']] []
+[] []
+[] []
+[] []
+[tobacco user, 0.443543940782547, ['attends' 'day' 'program' 'tobacco' 'smokes' 'ppd' 'for' 'yrs' 'alcohol'
+ 'no']] []
+[coronary artery structure, 0.5963496565818787, ['discharge' 'diagnosis' 'coronary' 'artery' 'disease' 'coronary' 'artery']] []
+[] []
+[atherosclerosis, 0.43636849522590637, ['artery' 'disease' 'coronary' 'artery' 'bypass' 'graft' 'hypertension']] [arteriolosclerosis, 0.2949677109718323, ['artery' 'disease' 'coronary' 'artery' 'bypass' 'graft' 'hypertension'], arteriosclerosis, 0.37685853242874146, ['artery' 'disease' 'coronary' 'artery' 'bypass' 'graft' 'hypertension']]
+[coronary arteriosclerosis, 0.48595550656318665, ['discharge' 'diagnosis' 'coronary' 'artery' 'disease' 'coronary' 'artery'
+ 'bypass' 'graft' 'hypertension']] []
+[operative site, 0.5313230752944946, ['operative' 'notes' 'for' 'details' 'operative' 'wound' 'cultures'], surgical wound, 0.5448480248451233, ['operating' 'room' 'where' 'plastic' 'surgery' 'performed' 'wound']] [skin of part of abdomen, 0.3620404899120331, ['murmur' 'none' 'chest' 'lungs' 'clear' 'bilateral' 'abdomen'], corneal structure, 0.20553138852119446, ['plastic' 'surgery' 'performed' 'wound' 'closure' 'with' 'bilateral'], subphrenic recess, 0.23901817202568054, ['narcotics' 'diverticulitis' 'left' 'hemicolectomy' 'back' 'surgery'
+ 'appendectomy'], abdominal cavity structure, 0.2508787214756012, ['murmur' 'none' 'chest' 'lungs' 'clear' 'bilateral' 'abdomen'], hair structure, 0.16848720610141754, ['body' 'pacing' 'wires' 'final' 'report' 'wound' 'culture'], structure of abdominopelvic cavity and/or content, 0.21875184774398804, ['operative' 'notes' 'for' 'details' 'operative' 'wound' 'cultures'], stoma site, 0.3261328637599945, ['site' 'rle' 'lle' 'erythema' 'no' 'yes' 'drainage'], body wall structure, 0.2933734059333801, ['body' 'pacing' 'wires' 'final' 'report' 'wound' 'culture'], structure of compartment of abdomen, 0.3239218592643738, ['murmur' 'none' 'chest' 'lungs' 'clear' 'bilateral' 'abdomen'], anatomical concepts, 0.2486201375722885, ['musculocutaneous' 'advancement' 'flaps' 'please' 'see' 'operative'
+ 'notes'], transplanted skin, 0.23320363461971283, ['plastic' 'surgery' 'performed' 'wound' 'closure' 'with' 'bilateral'], tendon structure, 0.26559847593307495, ['plates' 'bilateral' 'pectoralis' 'musculocutaneous' 'advancement' 'flap'
+ 'history'], abdominal structure, 0.25285932421684265, ['murmur' 'none' 'chest' 'lungs' 'clear' 'bilateral' 'abdomen'], anatomical structure, 0.20382900536060333, ['operative' 'notes' 'for' 'details' 'operative' 'wound' 'cultures'], body part structure, 0.2951553463935852, ['body' 'pacing' 'wires' 'final' 'report' 'wound' 'culture'], peritoneal cavity structure, 0.22276870906352997, ['operative' 'notes' 'for' 'details' 'operative' 'wound' 'cultures'], nail structure, 0.2330329269170761, ['sternal' 'wound' 'dehiscence' 'with' 'four' 'synthes' 'plates'], gastrostomy, 0.25447511672973633, ['epicardial' 'pacing' 'leads' 'closure' 'of' 'the' 'sternal'], structure of retroperitoneal region, excluding major organs, 0.23740828037261963, ['wound' 'infection' 'acute' 'renal' 'failure' 'right' 'arm'], body organ structure, 0.3292568325996399, ['body' 'pacing' 'wires' 'final' 'report' 'wound' 'culture'], abdominal wall structure, 0.3124620020389557, ['surgery' 'performed' 'wound' 'closure' 'with' 'bilateral' 'pectoralis'], stoma, 0.27349451184272766, ['administration' 'of' 'narcotics' 'diverticulitis' 'left' 'hemicolectomy'
+ 'back'], peritoneum, 0.2633575201034546, ['after' 'administration' 'of' 'narcotics' 'diverticulitis' 'left'
+ 'hemicolectomy'], skin and subcutaneous tissue structure, 0.32054466009140015, ['plastic' 'surgery' 'performed' 'wound' 'closure' 'with' 'bilateral'], structure of skin region, 0.28216034173965454, ['arm' 'right' 'arm' 'at' 'elbow' 'thrombophlebitis' 'area'], suture line, 0.3593158423900604, ['closure' 'of' 'the' 'sternal' 'wound' 'dehiscence' 'with'], donor site, 0.30114632844924927, ['operating' 'room' 'where' 'plastic' 'surgery' 'performed' 'wound'], entire body wall, 0.23766882717609406, ['wound' 'closure' 'with' 'bilateral' 'pectoralis' 'musculocutaneous'
+ 'advancement'], skin structure, 0.248073011636734, ['where' 'plastic' 'surgery' 'performed' 'wound' 'closure' 'with'], subphrenic space, 0.25620198249816895, ['diagnosis' 'sternal' 'wound' 'infection' 'acute' 'renal' 'failure']]
+[infectious disease, 0.5877657532691956, ['outpatient' 'antibiotics' 'should' 'be' 'directed' 'to' 'the'
+ 'infectious' 'disease']] [surgical procedure, 0.4823327660560608, ['surgery' 'performed' 'wound' 'closure' 'with' 'bilateral' 'pectoralis'
+ 'musculocutaneous' 'advancement'], procedure, 0.38424503803253174, ['procedure' 'sternal' 'debridement' 'with' 'placement' 'of' 'vac'
+ 'dressing' 'removal']]
+[foreign body, 0.6282329559326172, ['foreign' 'body' 'pacing' 'wires' 'final' 'report' 'wound']] [operative site, 0.5313230752944946, ['operative' 'notes' 'for' 'details' 'operative' 'wound' 'cultures'], sinus, 0.2161320596933365, ['irregular' 'murmur' 'none' 'chest' 'lungs' 'clear' 'bilateral'], inflammation, 0.275180459022522, ['infection' 'acute' 'renal' 'failure' 'right' 'arm' 'thrombophlebitis'], eruption, 0.26738440990448, ['pus' 'draining' 'with' 'erythema' 'afebrile' 'erythema' 'no'], surgical wound, 0.5448480248451233, ['operating' 'room' 'where' 'plastic' 'surgery' 'performed' 'wound'], inflammatory morphology, 0.19254064559936523, ['pus' 'draining' 'with' 'erythema' 'afebrile' 'erythema' 'no'], wound, 0.5081334710121155, ['operating' 'room' 'where' 'plastic' 'surgery' 'performed' 'wound'], abscess of wound, 0.49156782031059265, ['sternal' 'wound' 'infection' 'acute' 'renal' 'failure' 'right'], granulomatous inflammation, 0.27472013235092163, ['pus' 'draining' 'with' 'erythema' 'afebrile' 'erythema' 'no'], abscess, 0.3823297917842865, ['infection' 'acute' 'renal' 'failure' 'right' 'arm' 'thrombophlebitis'], sarcoid type granuloma, 0.25739049911499023, ['cl' 'hco' 'angap' 'am' 'foreign' 'body' 'pacing'], traumatic abnormality, 0.33262887597084045, ['dr' 'at' 'follow' 'up' 'visit' 'edema' 'bilateral']]
+[postoperative wound infection, 0.545881450176239, ['diagnosis' 'sternal' 'wound' 'infection' 'acute' 'renal' 'failure'
+ 'right' 'arm' 'thrombophlebitis'], mrsa infection of postoperative wound, 0.5699207186698914, ['operative' 'wound' 'cultures' 'grew' 'out' 'methicillin' 'sensitive'
+ 'staphylococcus' 'aureus' 'given']] [postprocedural retroperitoneal abscess, 0.3977001905441284, ['diagnosis' 'sternal' 'wound' 'infection' 'acute' 'renal' 'failure'
+ 'right' 'arm' 'thrombophlebitis'], postoperative abdominal wall wound abscess, 0.5146966576576233, ['diagnosis' 'sternal' 'wound' 'infection' 'acute' 'renal' 'failure'
+ 'right' 'arm' 'thrombophlebitis'], deep incisional surgical site infection, 0.48681390285491943, ['sternal' 'wound' 'infection' 'acute' 'renal' 'failure' 'right' 'arm'
+ 'thrombophlebitis' 'coronary'], infection of gastrostomy site, 0.36122918128967285, ['infection' 'with' 'retained' 'hardware' 'weeks' 'of' 'iv' 'antibiotic'
+ 'therapy' 'was'], organ-space surgical site infection, 0.4755595624446869, ['the' 'discharge' 'diagnosis' 'sternal' 'wound' 'infection' 'acute'
+ 'renal' 'failure' 'right'], postoperative infection, 0.4270341396331787, ['diagnosis' 'sternal' 'wound' 'infection' 'acute' 'renal' 'failure'
+ 'right' 'arm' 'thrombophlebitis'], postoperative wound sinus, 0.4366132616996765, ['flaps' 'please' 'see' 'operative' 'notes' 'for' 'details' 'operative'
+ 'wound' 'cultures'], wound abscess, 0.4831285774707794, ['diagnosis' 'sternal' 'wound' 'infection' 'acute' 'renal' 'failure'
+ 'right' 'arm' 'thrombophlebitis'], postoperative intra-abdominal abscess, 0.44562870264053345, ['after' 'administration' 'of' 'narcotics' 'diverticulitis' 'left'
+ 'hemicolectomy' 'back' 'surgery' 'appendectomy'], infection of tendon repair, 0.38546323776245117, ['infected' 'epicardial' 'pacing' 'leads' 'closure' 'of' 'the' 'sternal'
+ 'wound' 'dehiscence'], suture granuloma, 0.3078182339668274, ['angap' 'am' 'foreign' 'body' 'pacing' 'wires' 'final' 'report' 'wound'
+ 'culture'], postoperative subphrenic abscess, 0.4199037551879883, ['after' 'administration' 'of' 'narcotics' 'diverticulitis' 'left'
+ 'hemicolectomy' 'back' 'surgery' 'appendectomy'], surgical site infection, 0.4755595624446869, ['the' 'discharge' 'diagnosis' 'sternal' 'wound' 'infection' 'acute'
+ 'renal' 'failure' 'right'], stitch abscess of cornea, 0.39908620715141296, ['diagnosis' 'sternal' 'wound' 'infection' 'acute' 'renal' 'failure'
+ 'right' 'arm' 'thrombophlebitis'], stitch abscess, 0.39593806862831116, ['diagnosis' 'sternal' 'wound' 'infection' 'acute' 'renal' 'failure'
+ 'right' 'arm' 'thrombophlebitis'], postoperative wound infection-deep, 0.4876648783683777, ['returned' 'to' 'the' 'operating' 'room' 'where' 'plastic' 'surgery'
+ 'performed' 'wound'], postoperative wound infection-superficial, 0.4876648783683777, ['returned' 'to' 'the' 'operating' 'room' 'where' 'plastic' 'surgery'
+ 'performed' 'wound'], infection associated with artificial insemination, 0.2869609594345093, ['his' 'infection' 'with' 'retained' 'hardware' 'weeks' 'of' 'iv'
+ 'antibiotic' 'therapy'], infection of skin donor site, 0.37827885150909424, ['surgery' 'performed' 'wound' 'closure' 'with' 'bilateral' 'pectoralis'
+ 'musculocutaneous' 'advancement' 'flaps'], postoperative wound abscess, 0.4971671998500824, ['sternal' 'wound' 'drainage' 'and' 'empirically' 'started' 'on'
+ 'intravenous' 'antibiotics' 'he'], stitch infection, 0.3787957429885864, ['infected' 'epicardial' 'pacing' 'leads' 'closure' 'of' 'the' 'sternal'
+ 'wound' 'dehiscence'], superficial incisional surgical site infection, 0.5067242383956909, ['sternal' 'wound' 'infection' 'acute' 'renal' 'failure' 'right' 'arm'
+ 'thrombophlebitis' 'coronary'], postoperative sepsis, 0.42027556896209717, ['wound' 'infection' 'acute' 'renal' 'failure' 'right' 'arm'
+ 'thrombophlebitis' 'coronary' 'artery'], postprocedural intra-abdominal sepsis, 0.42260563373565674, ['sternal' 'wound' 'infection' 'acute' 'renal' 'failure' 'right' 'arm'
+ 'thrombophlebitis' 'coronary'], infected percutaneous endoscopic gastrostomy site, 0.36309614777565, ['dressing' 'removal' 'of' 'infected' 'epicardial' 'pacing' 'leads'
+ 'closure' 'of' 'the'], postoperative infection of thyroidectomy wound, 0.48246845602989197, ['flaps' 'please' 'see' 'operative' 'notes' 'for' 'details' 'operative'
+ 'wound' 'cultures']]
+[operative site, 0.47137609124183655, ['incision' 'site' 'you' 'initially' 'had' 'drain' 'which'], surgical wound, 0.5258489847183228, ['systolic' 'congestive' 'heart' 'failure' 'mssa' 'sternal' 'wound']] [skin of part of abdomen, 0.32456719875335693, ['rhythm' 'normal' 'no' 'murmurs' 'rubs' 'gallops' 'abdomen'], corneal structure, 0.19036011397838593, ['lung' 'base' 'patchy' 'opacity' 'in' 'left' 'lung'], subphrenic recess, 0.32705336809158325, ['location' 'left' 'midline' 'catheter' 'and' 'mediastinal' 'drain'], abdominal cavity structure, 0.2578221261501312, ['the' 'left' 'upper' 'quadrant' 'and' 'left' 'lung'], hair structure, 0.2078648954629898, ['dermatology' 'thought' 'rash' 'was' 'likely' 'leukocytoclastic'
+ 'vasculitis'], structure of abdominopelvic cavity and/or content, 0.22699397802352905, ['drained' 'of' 'of' 'transudative' 'fluid' 'cytology' 'was'], stoma site, 0.4286055266857147, ['incision' 'site' 'you' 'initially' 'had' 'drain' 'which'], body wall structure, 0.27627095580101013, ['wall' 'pacer' 'with' 'right' 'atrial' 'and' 'ventricular'], structure of compartment of abdomen, 0.27566975355148315, ['abdomen' 'soft' 'non' 'tender' 'non' 'distended' 'bowel'], anatomical concepts, 0.25165581703186035, ['view' 'of' 'the' 'chest' 'patient' 'is' 'status'], transplanted skin, 0.2919534146785736, ['the' 'skin' 'infection' 'of' 'your' 'sternal' 'incision'], tendon structure, 0.25295308232307434, ['humeral' 'head' 'no' 'acute' 'osseous' 'findings' 'are'], abdominal structure, 0.22891677916049957, ['the' 'chest' 'there' 'are' 'layering' 'bilateral' 'pleural'], anatomical structure, 0.2449127435684204, ['surgical' 'anchor' 'is' 'partly' 'imaged' 'projecting' 'over'], body part structure, 0.22177833318710327, ['no' 'pneumonia' 'surgical' 'anchor' 'is' 'partly' 'imaged'], peritoneal cavity structure, 0.23633012175559998, ['hilar' 'contours' 'are' 'stable' 'multiple' 'external' 'tubing'], nail structure, 0.21837958693504333, ['edema' 'or' 'pneumothorax' 'sternal' 'plating' 'hardware' 'is'], gastrostomy, 0.24145647883415222, ['thoracenteses' 'removal' 'of' 'chest' 'wall' 'drain' 'history'], structure of retroperitoneal region, excluding major organs, 0.2984243333339691, ['renal' 'son' 'evidence' 'of' 'bilateral' 'pleural' 'effusions'], body organ structure, 0.23298300802707672, ['the' 'staff' 'radiologist' 'renal' 'the' 'right' 'kidney'], abdominal wall structure, 0.33074867725372314, ['chest' 'wall' 'pacer' 'with' 'right' 'atrial' 'and'], stoma, 0.27349451184272766, ['administration' 'of' 'narcotics' 'diverticulitis' 'left' 'hemicolectomy'
+ 'back'], peritoneum, 0.2633575201034546, ['after' 'administration' 'of' 'narcotics' 'diverticulitis' 'left'
+ 'hemicolectomy'], skin and subcutaneous tissue structure, 0.3536670506000519, ['the' 'skin' 'infection' 'of' 'your' 'sternal' 'incision'], structure of skin region, 0.30289003252983093, ['skin' 'infection' 'of' 'your' 'sternal' 'incision' 'site'], suture line, 0.3186701536178589, ['incision' 'site' 'you' 'initially' 'had' 'drain' 'which'], donor site, 0.33978280425071716, ['skin' 'infection' 'of' 'your' 'sternal' 'incision' 'site'], entire body wall, 0.25403591990470886, ['wall' 'pacer' 'with' 'right' 'atrial' 'and' 'ventricular'], skin structure, 0.2886418402194977, ['dermatology' 'thought' 'rash' 'was' 'likely' 'leukocytoclastic'
+ 'vasculitis'], subphrenic space, 0.34200024604797363, ['left' 'upper' 'quadrant' 'and' 'left' 'lung' 'base']]
+[infectious disease, 0.5147250890731812, ['department' 'infectious' 'disease' 'when' 'thursday' 'at' 'pm' 'with'
+ 'building']] [surgical procedure, 0.4717797636985779, ['invasive' 'procedure' 'bilateral' 'thoracenteses' 'removal' 'of' 'chest'
+ 'wall' 'drain'], procedure, 0.44611403346061707, ['procedure' 'bilateral' 'thoracenteses' 'removal' 'of' 'chest' 'wall'
+ 'drain' 'history']]
+[surgical wound, 0.5258489847183228, ['systolic' 'congestive' 'heart' 'failure' 'mssa' 'sternal' 'wound']] [operative site, 0.47137609124183655, ['incision' 'site' 'you' 'initially' 'had' 'drain' 'which'], sinus, 0.22363726794719696, ['ventricle' 'several' 'epicardial' 'leads' 'are' 'unchanged' 'cardiac'], inflammation, 0.25941213965415955, ['rash' 'was' 'likely' 'leukocytoclastic' 'vasculitis' 'ancef' 'pt'], eruption, 0.4247947931289673, ['rash' 'dermatology' 'thought' 'rash' 'was' 'likely' 'leukocytoclastic'], foreign body, 0.2921067178249359, ['catheter' 'devices' 'are' 'seen' 'projecting' 'over' 'the'], inflammatory morphology, 0.19716887176036835, ['wound' 'infection' 'discharge' 'condition' 'mental' 'status' 'clear'], wound, 0.5150220394134521, ['systolic' 'congestive' 'heart' 'failure' 'mssa' 'sternal' 'wound'], abscess of wound, 0.4451957643032074, ['for' 'sternal' 'wound' 'exploration' 'with' 'drain' 'placed'], granulomatous inflammation, 0.3056851327419281, ['rash' 'was' 'likely' 'leukocytoclastic' 'vasculitis' 'ancef' 'pt'], abscess, 0.3248298466205597, ['chf' 'mssa' 'infection' 'he' 'was' 'on' 'cefazolin'], sarcoid type granuloma, 0.2570629417896271, ['dermatology' 'thought' 'rash' 'was' 'likely' 'leukocytoclastic'
+ 'vasculitis'], traumatic abnormality, 0.2733183205127716, ['the' 'proximal' 'end' 'there' 'is' 'abnormal' 'compressibility']]
+[postoperative wound infection, 0.5484411716461182, ['chronic' 'systolic' 'congestive' 'heart' 'failure' 'mssa' 'sternal'
+ 'wound' 'infection' 'discharge'], infection of skin donor site, 0.5242548584938049, ['taking' 'for' 'the' 'skin' 'infection' 'of' 'your' 'sternal' 'incision'
+ 'site']] [postprocedural retroperitoneal abscess, 0.38593968749046326, ['after' 'administration' 'of' 'narcotics' 'diverticulitis' 'left'
+ 'hemicolectomy' 'back' 'surgery' 'appendectomy'], postoperative abdominal wall wound abscess, 0.4407380521297455, ['congestive' 'heart' 'failure' 'mssa' 'sternal' 'wound' 'infection'
+ 'discharge' 'condition' 'mental'], deep incisional surgical site infection, 0.47558096051216125, ['chronic' 'systolic' 'congestive' 'heart' 'failure' 'mssa' 'sternal'
+ 'wound' 'infection' 'discharge'], infection of gastrostomy site, 0.46395811438560486, ['infection' 'of' 'your' 'sternal' 'incision' 'site' 'you' 'initially'
+ 'had' 'drain'], organ-space surgical site infection, 0.4884268343448639, ['chronic' 'systolic' 'congestive' 'heart' 'failure' 'mssa' 'sternal'
+ 'wound' 'infection' 'discharge'], postoperative infection, 0.40311500430107117, ['original' 'antibiotic' 'cefazolin' 'you' 'were' 'taking' 'for' 'the'
+ 'skin' 'infection'], postoperative wound sinus, 0.393541544675827, ['acute' 'on' 'chronic' 'systolic' 'congestive' 'heart' 'failure' 'mssa'
+ 'sternal' 'wound'], wound abscess, 0.451831191778183, ['wound' 'exploration' 'with' 'drain' 'placed' 'with' 'cultures'
+ 'speciated' 'as' 'mssa'], postoperative intra-abdominal abscess, 0.44562870264053345, ['after' 'administration' 'of' 'narcotics' 'diverticulitis' 'left'
+ 'hemicolectomy' 'back' 'surgery' 'appendectomy'], infection of tendon repair, 0.3435526192188263, ['antibiotic' 'cefazolin' 'you' 'were' 'taking' 'for' 'the' 'skin'
+ 'infection' 'of'], suture granuloma, 0.28223392367362976, ['administration' 'of' 'narcotics' 'diverticulitis' 'left' 'hemicolectomy'
+ 'back' 'surgery' 'appendectomy' 'tonsillectomy'], postoperative subphrenic abscess, 0.4199037551879883, ['after' 'administration' 'of' 'narcotics' 'diverticulitis' 'left'
+ 'hemicolectomy' 'back' 'surgery' 'appendectomy'], surgical site infection, 0.4884268343448639, ['chronic' 'systolic' 'congestive' 'heart' 'failure' 'mssa' 'sternal'
+ 'wound' 'infection' 'discharge'], stitch abscess of cornea, 0.3623306453227997, ['were' 'taking' 'for' 'the' 'skin' 'infection' 'of' 'your' 'sternal'
+ 'incision'], stitch abscess, 0.3714480400085449, ['infection' 'of' 'your' 'sternal' 'incision' 'site' 'you' 'initially'
+ 'had' 'drain'], postoperative wound infection-deep, 0.4069395363330841, ['acute' 'on' 'chronic' 'systolic' 'congestive' 'heart' 'failure' 'mssa'
+ 'sternal' 'wound'], postoperative wound infection-superficial, 0.4069395363330841, ['acute' 'on' 'chronic' 'systolic' 'congestive' 'heart' 'failure' 'mssa'
+ 'sternal' 'wound'], infection associated with artificial insemination, 0.2941431701183319, ['antimicrobial' 'therapy' 'followed' 'by' 'lifelong' 'suppressive'
+ 'therapy' 'for' 'retained' 'infected'], postoperative wound abscess, 0.4256088435649872, ['acute' 'on' 'chronic' 'systolic' 'congestive' 'heart' 'failure' 'mssa'
+ 'sternal' 'wound'], stitch infection, 0.35388433933258057, ['infection' 'of' 'your' 'sternal' 'incision' 'site' 'you' 'initially'
+ 'had' 'drain'], superficial incisional surgical site infection, 0.4946626126766205, ['chronic' 'systolic' 'congestive' 'heart' 'failure' 'mssa' 'sternal'
+ 'wound' 'infection' 'discharge'], postoperative sepsis, 0.3594595789909363, ['chronic' 'systolic' 'congestive' 'heart' 'failure' 'mssa' 'sternal'
+ 'wound' 'infection' 'discharge'], postprocedural intra-abdominal sepsis, 0.3481772541999817, ['with' 'sternal' 'wound' 'infection' 'admitted' 'for' 'presumed' 'pre'
+ 'renal' 'arf'], infected percutaneous endoscopic gastrostomy site, 0.42094719409942627, ['infection' 'of' 'your' 'sternal' 'incision' 'site' 'you' 'initially'
+ 'had' 'drain'], postoperative infection of thyroidectomy wound, 0.44229164719581604, ['for' 'recent' 'cad' 'cabg' 'sternal' 'wound' 'infection' 'on'
+ 'antibiotics' 'and'], mrsa infection of postoperative wound, 0.5034327507019043, ['on' 'chronic' 'systolic' 'congestive' 'heart' 'failure' 'mssa' 'sternal'
+ 'wound' 'infection']]
+[cardiac ventricular structure, 0.46944212913513184, ['atrium' 'is' 'mildly' 'dilated' 'the' 'left' 'ventricular']] [myocardium structure, 0.3104998469352722, ['left' 'ventricular' 'systolic' 'function' 'is' 'normal' 'lvef']]
+[] []
+[] []
+[congestive heart failure, 0.556901752948761, ['of' 'chf' 'or' 'pneumonia' 'findings' 'suggestive' 'of' 'pulmonary'
+ 'artery' 'hypertension']] []
+[endocrine pancreatic structure, 0.2562393546104431, ['second' 'part' 'of' 'the' 'duodenum' 'echo' 'the']] [digestive structure, 0.2151162475347519, ['bowel' 'habit' 'headache' 'hemeturia' 'changes' 'in' 'diet'], endocrine structure, 0.18073059618473053, ['bowel' 'habit' 'headache' 'hemeturia' 'changes' 'in' 'diet'], endocrine gonad, 0.21243801712989807, ['erythema' 'in' 'the' 'stomach' 'body' 'fundus' 'and']]
+[] []
+[] []
+[type ii diabetes mellitus without complication, 0.42725270986557007, ['medical' 'history' 'dm' 'ii' 'htn' 'pulmonary' 'hypertension'
+ 'increased' 'cholesterol' 'chroninc']] []
+[bone structure of spine, 0.5619047284126282, ['no' 'new' 'spine' 'fracture' 'on' 'spine' 'hip']] [structure of upper cervical spinal cord, 0.49436885118484497, ['spinal' 'canal' 'stenosis' 'the' 'cervical' 'cord' 'at'], spinal cord structure, 0.4964272975921631, ['for' 'the' 'likelihood' 'of' 'acute' 'spinal' 'cord'], bone structure of c1-c4, 0.3316373825073242, ['hip' 'fracture' 'humerus' 'fracture' 'ct' 'of' 'spine'], bone structure of cervical vertebra, 0.4929978549480438, ['cervical' 'spine' 'disc' 'degeneration' 'seen' 'on' 'cervical'], bone structure, 0.34889331459999084, ['hip' 'fracture' 'humerus' 'fracture' 'ct' 'of' 'spine'], cervical spinal cord structure, 0.5095006823539734, ['spinal' 'canal' 'stenosis' 'the' 'cervical' 'cord' 'at']]
+[closed fracture of cervical spine, 0.6404474973678589, ['study' 'cervical' 'spine' 'disc' 'degeneration' 'seen' 'on' 'cervical'
+ 'spine']] [traumatic event, 0.3726353049278259, ['the' 'events' 'surrounding' 'the' 'fall' 'and' 'sustained' 'spiral'
+ 'fracture']]
+[fracture, 0.7035082578659058, ['fracture' 'humerus' 'fracture' 'ct' 'of' 'spine' 'showed']] [damage, 0.31491535902023315, ['injury' 'as' 'both' 'services' 'had' 'been' 'alternately'], fracture, closed, 0.522001326084137, ['fracture' 'humerus' 'fracture' 'ct' 'of' 'spine' 'showed'], traumatic abnormality, 0.3674752116203308, ['trauma' 'no' 'mass' 'or' 'hematoma' 'impinging' 'upon']]
+[closed fracture of c1-c4 level with spinal cord injury, 0.5474367737770081, ['the' 'likelihood' 'of' 'acute' 'spinal' 'cord' 'injury' 'with' 'above'
+ 'findings']] []
+[kidney structure, 0.38911059498786926, ['of' 'lipitor' 'renal' 'she' 'has' 'slight' 'renal']] []
+[] []
+[] []
+[acute renal failure syndrome, 0.4573710262775421, ['stenosis' 'brown' 'sequard' 'syndrome' 'urinary' 'tract' 'infection'
+ 'fall' 'secondary' 'diagnoses']] []
+[cardiac ventricular structure, 0.49076393246650696, ['ventricular' 'wall' 'thickness' 'cavity' 'size' 'and' 'systolic']] [myocardium structure, 0.3878994584083557, ['lvef' 'regional' 'left' 'ventricular' 'wall' 'motion' 'appears']]
+[] []
+[] []
+[congestive heart failure, 0.5507510900497437, ['type' 'diabetes' 'hypertension' 'pulm' 'hypertension' 'right' 'sided'
+ 'heart' 'failure' 'discharge']] []
+[digestive structure, 0.29698649048805237, ['density' 'structures' 'in' 'liver' 'and' 'stomach' 'ekg']] [endocrine pancreatic structure, 0.2896502912044525, ['fat' 'density' 'structures' 'in' 'liver' 'and' 'stomach'], endocrine structure, 0.2870809733867645, ['density' 'structures' 'in' 'liver' 'and' 'stomach' 'ekg'], endocrine gonad, 0.24923798441886902, ['ed' 'gcs' 'aox' 'fs' 'patient' 'denied' 'chest']]
+[] []
+[] []
+[type ii diabetes mellitus without complication, 0.4460304081439972, ['syndrome' 'urinary' 'tract' 'infection' 'fall' 'secondary' 'diagnoses'
+ 'type' 'diabetes' 'hypertension']] []
+[kidney structure, 0.20084048807621002, ['for' 'albumin' 'in' 'pulmonary' 'htn' 'sided' 'heart']] []
+[] []
+[] []
+[acute renal failure syndrome, 0.3712852895259857, ['failure' 'community' 'acquired' 'pneumonia' 'type' 'diabetes' 'mellitus'
+ 'pulmonary' 'hypertension' 'discharge']] []
+[cardiac ventricular structure, 0.4003601670265198, ['htn' 'sided' 'heart' 'failure' 'main' 'pulmonary' 'artery']] [myocardium structure, 0.25726333260536194, ['structural' 'heart' 'disease' 'on' 'echo' 'findings' 'of']]
+[] []
+[] []
+[congestive heart failure, 0.6947813630104065, ['congestive' 'heart' 'failure' 'community' 'acquired' 'pneumonia' 'type'
+ 'diabetes' 'mellitus' 'pulmonary']] []
+[endocrine pancreatic structure, 0.2511693835258484, ['insulin' 'bg' 'relatively' 'well' 'controlled' 'code' 'full']] [digestive structure, 0.17058859765529633, ['one' 'capsule' 'delayed' 'release' 'po' 'once' 'day'], endocrine structure, 0.19539795815944672, ['insulin' 'bg' 'relatively' 'well' 'controlled' 'code' 'full'], endocrine gonad, 0.1992865800857544, ['venous' 'stasis' 'ulcer' 'on' 'her' 'shin' 'the']]
+[] []
+[] []
+[type ii diabetes mellitus without complication, 0.47391650080680847, ['metoprolol' 'hyperlipidemia' 'continue' 'home' 'dose' 'of' 'lipitor'
+ 'dm' 'type' 'ii']] []
+[erythrocyte, 0.26416918635368347, ['microcytic' 'she' 'received' 'units' 'of' 'blood' 'in']] [hematopoietic system structure, 0.24586331844329834, ['intestine' 'you' 'blood' 'counts' 'remained' 'stable' 'and']]
+[bleeding, 0.5116098523139954, ['blood' 'in' 'your' 'abdominal' 'wall' 'and' 'possibly' 'some' 'bleeding']] []
+[] []
+[acute posthemorrhagic anemia, 0.570525586605072, ['primary' 'acute' 'blood' 'loss' 'anemia' 'acute' 'renal' 'failure'
+ 'hypovolemic' 'shock']] []
+[kidney structure, 0.34324532747268677, ['renal' 'failure' 'pre' 'renal' 'secondary' 'to' 'hypotension']] []
+[] []
+[] []
+[acute renal failure syndrome, 0.5853570699691772, ['acute' 'renal' 'failure' 'pre' 'renal' 'secondary' 'to' 'hypotension'
+ 'hypovolemia' 'her']] []
+[cardiac ventricular structure, 0.5426586866378784, ['lv' 'diastolic' 'dysfunction' 'there' 'is' 'no' 'ventricular']] [myocardium structure, 0.31226080656051636, ['size' 'and' 'regional' 'global' 'systolic' 'function' 'lvef']]
+[] []
+[] []
+[congestive heart failure, 0.6046928763389587, ['renal' 'failure' 'acute' 'on' 'chronic' 'diastolic' 'heart' 'failure'
+ 'pulmonary' 'hypertension']] []
+[kidney structure, 0.34324532747268677, ['renal' 'failure' 'pre' 'renal' 'secondary' 'to' 'hypotension']] []
+[] []
+[] []
+[chronic renal failure syndrome, 0.5504827499389648, ['on' 'chronic' 'renal' 'failure' 'acute' 'on' 'chronic' 'diastolic'
+ 'heart' 'failure']] []
+[pulmonary vascular structure, 0.5761641263961792, ['pneumonia' 'heart' 'size' 'is' 'stable' 'pulmonary' 'arterial']] [structure of interstitial tissue of lung, 0.3666037321090698, ['of' 'pneumonia' 'heart' 'size' 'is' 'stable' 'pulmonary'], systemic arterial structure, 0.3824822008609772, ['with' 'history' 'of' 'systemic' 'hypertension' 'pulmonary' 'arterial'], cardiovascular system subdivision, 0.3170303702354431, ['history' 'of' 'systemic' 'hypertension' 'pulmonary' 'arterial'
+ 'hypertension'], nervous system structure, 0.19827800989151, ['frequency' 'urgency' 'dysuria' 'lightheadedness' 'gait' 'unsteadiness'
+ 'focal'], pulmonary venous structure, 0.4208274185657501, ['pneumonia' 'heart' 'size' 'is' 'stable' 'pulmonary' 'arterial'], cardiopulmonary circulatory system structure, 0.3012694716453552, ['to' 'hypotension' 'hypovolemia' 'her' 'electrolytes' 'and' 'volume'], structure of capillary blood vessel, 0.22858348488807678, ['hematoma' 'unknown' 'exactly' 'how' 'the' 'hematoma' 'occurred'], skin structure, 0.27601557970046997, ['xii' 'grossly' 'intact' 'moves' 'all' 'extremities' 'skin'], heart structure, 0.3664405047893524, ['is' 'no' 'definite' 'evidence' 'of' 'pneumonia' 'heart'], vascular structure, 0.31016024947166443, ['pneumonia' 'heart' 'size' 'is' 'stable' 'pulmonary' 'arterial'], pulmonary artery structure, 0.5380034446716309, ['pneumonia' 'heart' 'size' 'is' 'stable' 'pulmonary' 'arterial']]
+[left ventricular diastolic dysfunction, 0.7202543020248413, ['lv' 'diastolic' 'dysfunction' 'there' 'is' 'no' 'ventricular' 'septal'
+ 'defect']] [vasculitis, 0.3262421786785126, ['headache' 'rash' 'or' 'skin' 'changes' 'past' 'medical' 'history'
+ 'pulmonary'], myeloproliferative disorder, 0.24411527812480927, ['compatible' 'with' 'patients' 'given' 'history' 'of' 'pulmonary'
+ 'hypertension' 'atherosclerotic'], post-splenectomy disorder, 0.25986847281455994, ['baseline' 'urinary' 'incontinence' 'syncope' 'social' 'history' 'the'
+ 'patient' 'lives'], extreme obesity with alveolar hypoventilation, 0.3577998876571655, ['type' 'ii' 'dm' 'hyperlipidemia' 'low' 'back' 'pain' 'obesity' 'heart'], alveolar hypoventilation, 0.3552345335483551, ['pulmonary' 'hypertension' 'diastolic' 'chf' 'who' 'presented' 'with'
+ 'weakness' 'hypotension'], thoracic lymphadenopathy, 0.4831666350364685, ['cervical' 'lymphadenopathy' 'trachea' 'midline' 'cor' 'rrr' 'systolic'
+ 'murmur' 'normal'], left ventricular systolic dysfunction, 0.6046110987663269, ['size' 'and' 'regional' 'global' 'systolic' 'function' 'lvef'
+ 'transmitral' 'doppler'], sclerosing mediastinitis, 0.25439247488975525, ['cervical' 'lymphadenopathy' 'trachea' 'midline' 'cor' 'rrr' 'systolic'
+ 'murmur' 'normal'], neoplastic disease, 0.2528364062309265, ['acute' 'blood' 'loss' 'blood' 'and' 'urine' 'cultures' 'were' 'negative'], procedure, 0.3313213884830475, ['procedure' 'ij' 'placement' 'history' 'of' 'present' 'illness' 'this'
+ 'is'], heart disease, 0.43880605697631836, ['heart' 'failure' 'pulmonary' 'hypertension' 'on' 'home' 'secondary'
+ 'hypertension' 'diabetes'], neurofibromatosis syndrome, 0.28971990942955017, ['changes' 'headache' 'rash' 'or' 'skin' 'changes' 'past' 'medical'
+ 'history'], congenital stenosis of pulmonary veins, 0.45404550433158875, ['dysfunction' 'there' 'is' 'no' 'ventricular' 'septal' 'defect' 'right'
+ 'ventricular']]
+[traumatic abnormality, 0.3459120988845825, ['dysfunction' 'there' 'is' 'no' 'ventricular' 'septal' 'defect']] [thromboembolus, 0.3308104872703552, ['the' 'hematoma' 'occurred' 'secondary' 'to' 'heparin' 'injection'], morphologically abnormal structure, 0.2196732461452484, ['thickened' 'there' 'is' 'no' 'mitral' 'valve' 'prolapse'], langerhans cell histiocytosis - category, 0.2459503561258316, ['no' 'pneumothorax' 'diffuse' 'demineralized' 'bone' 'is' 'noted'], damage, 0.21592412889003754, ['loss' 'anemia' 'acute' 'renal' 'failure' 'hypovolemic' 'shock'], neoplasm, 0.2492436170578003, ['unsteadiness' 'focal' 'weakness' 'vision' 'changes' 'headache' 'rash'], developmental anomaly, 0.2730392515659332, ['dysfunction' 'there' 'is' 'no' 'ventricular' 'septal' 'defect'], lymphangiomyomatosis, 0.31928759813308716, ['hypertension' 'atherosclerotic' 'calcification' 'at' 'the' 'aorta' 'is'], hemangiomatosis, 0.31304416060447693, ['ergocalciferol' 'vitamin' 'unit' 'capsule' 'sig' 'two' 'capsule'], congenital anomaly, 0.29965493083000183, ['there' 'is' 'no' 'ventricular' 'septal' 'defect' 'right']]
+[pulmonary hypertension due to diastolic systemic ventricular dysfunction, 0.6603830456733704, ['diastolic' 'dysfunction' 'there' 'is' 'no' 'ventricular' 'septal'
+ 'defect' 'right' 'ventricular'], drug-induced pulmonary hypertension, 0.6347648501396179, ['chronic' 'diastolic' 'heart' 'failure' 'pulmonary' 'hypertension' 'on'
+ 'home' 'secondary' 'hypertension'], post-arteritic pulmonary hypertension, 0.6442397236824036, ['chronic' 'diastolic' 'heart' 'failure' 'pulmonary' 'hypertension' 'on'
+ 'home' 'secondary' 'hypertension']] [precapillary pulmonary hypertension, 0.5563480257987976, ['chronic' 'diastolic' 'heart' 'failure' 'pulmonary' 'hypertension' 'on'
+ 'home' 'secondary' 'hypertension'], pulmonary hypertension due to vasculitis, 0.5150690674781799, ['renal' 'failure' 'acute' 'on' 'chronic' 'diastolic' 'heart' 'failure'
+ 'pulmonary' 'hypertension'], high altitude pulmonary hypertension, 0.5324624180793762, ['chronic' 'diastolic' 'heart' 'failure' 'pulmonary' 'hypertension' 'on'
+ 'home' 'secondary' 'hypertension'], pulmonary venous hypertension due to compression of pulmonary great vein by neoplasm, 0.47346389293670654, ['diastolic' 'dysfunction' 'there' 'is' 'no' 'ventricular' 'septal'
+ 'defect' 'right' 'ventricular'], pulmonary hypertension in systemic disorder, 0.5263630747795105, ['of' 'systemic' 'hypertension' 'pulmonary' 'arterial' 'hypertension'
+ 'chronic' 'diastolic' 'chf' 'who'], pulmonary arterial hypertension associated with schistosomiasis, 0.5044963955879211, ['of' 'systemic' 'hypertension' 'pulmonary' 'arterial' 'hypertension'
+ 'chronic' 'diastolic' 'chf' 'who'], thromboembolic pulmonary hypertension, 0.5154276490211487, ['heart' 'failure' 'pulmonary' 'hypertension' 'on' 'home' 'secondary'
+ 'hypertension' 'diabetes' 'mellitus'], pulmonary arterial hypertension associated with congenital heart disease, 0.573341965675354, ['with' 'history' 'of' 'systemic' 'hypertension' 'pulmonary' 'arterial'
+ 'hypertension' 'chronic' 'diastolic'], pulmonary hypertension due to pulmonary disease with mixed restrictive and obstructive pattern, 0.4621503949165344, ['with' 'history' 'of' 'pulmonary' 'hypertension' 'diastolic' 'chf' 'who'
+ 'presented' 'with'], facultative pulmonary hypertension with shunt at atrial level, 0.5076122879981995, ['diastolic' 'dysfunction' 'there' 'is' 'no' 'ventricular' 'septal'
+ 'defect' 'right' 'ventricular'], pulmonary capillary hemangiomatosis, 0.3910033404827118, ['definite' 'evidence' 'of' 'pneumonia' 'heart' 'size' 'is' 'stable'
+ 'pulmonary' 'arterial'], post-capillary pulmonary hypertension, 0.551725447177887, ['chronic' 'diastolic' 'heart' 'failure' 'pulmonary' 'hypertension' 'on'
+ 'home' 'secondary' 'hypertension'], pulmonary hypertension secondary to raised pulmonary vascular resistance, 0.5602672100067139, ['of' 'pulmonary' 'hypertension' 'diastolic' 'chf' 'who' 'presented'
+ 'with' 'weakness' 'hypotension'], pulmonary arterial hypertension associated with congenital systemic-to-pulmonary shunt, 0.5409954190254211, ['female' 'with' 'history' 'of' 'systemic' 'hypertension' 'pulmonary'
+ 'arterial' 'hypertension' 'chronic'], pulmonary hypertension due to chronic obstructive pulmonary disease, 0.6049588918685913, ['chronic' 'diastolic' 'heart' 'failure' 'pulmonary' 'hypertension' 'on'
+ 'home' 'secondary' 'hypertension'], pulmonary hypertension due to hematological disorder, 0.48215317726135254, ['of' 'pulmonary' 'hypertension' 'diastolic' 'chf' 'who' 'presented'
+ 'with' 'weakness' 'hypotension'], pulmonary venous hypertension due to compression of pulmonary great vein, 0.48594507575035095, ['diastolic' 'dysfunction' 'there' 'is' 'no' 'ventricular' 'septal'
+ 'defect' 'right' 'ventricular'], secondary pulmonary hypertension, 0.63307124376297, ['chronic' 'diastolic' 'heart' 'failure' 'pulmonary' 'hypertension' 'on'
+ 'home' 'secondary' 'hypertension'], pulmonary hypertension due to lung disease and/or hypoxia, 0.5654594898223877, ['renal' 'failure' 'acute' 'on' 'chronic' 'diastolic' 'heart' 'failure'
+ 'pulmonary' 'hypertension'], pulmonary hypertension with occult mitral stenosis, 0.5635343194007874, ['of' 'pulmonary' 'hypertension' 'diastolic' 'chf' 'who' 'presented'
+ 'with' 'weakness' 'hypotension'], pulmonary hypertension due to alveolar hypoventilation disorder, 0.5392352342605591, ['of' 'pulmonary' 'hypertension' 'diastolic' 'chf' 'who' 'presented'
+ 'with' 'weakness' 'hypotension'], pulmonary arterial hypertension induced by toxin, 0.5274183750152588, ['of' 'systemic' 'hypertension' 'pulmonary' 'arterial' 'hypertension'
+ 'chronic' 'diastolic' 'chf' 'who'], pulmonary arterial hypertension associated with connective tissue disease, 0.5861710906028748, ['with' 'history' 'of' 'systemic' 'hypertension' 'pulmonary' 'arterial'
+ 'hypertension' 'chronic' 'diastolic'], pulmonary hypertension in langerhans cell histiocytosis, 0.43479135632514954, ['chronic' 'diastolic' 'heart' 'failure' 'pulmonary' 'hypertension' 'on'
+ 'home' 'secondary' 'hypertension'], pulmonary hypertension in neurofibromatosis, 0.5319048762321472, ['heart' 'failure' 'pulmonary' 'hypertension' 'on' 'home' 'secondary'
+ 'hypertension' 'diabetes' 'mellitus'], chronic pulmonary heart disease, 0.4888336956501007, ['definite' 'evidence' 'of' 'pneumonia' 'heart' 'size' 'is' 'stable'
+ 'pulmonary' 'arterial'], pulmonary hypertension due to developmental abnormality of the lung, 0.5132102966308594, ['given' 'history' 'of' 'pulmonary' 'hypertension' 'atherosclerotic'
+ 'calcification' 'at' 'the' 'aorta'], pulmonary veno-occlusive disease and/or pulmonary capillary hemangiomatosis, 0.4905533492565155, ['definite' 'evidence' 'of' 'pneumonia' 'heart' 'size' 'is' 'stable'
+ 'pulmonary' 'arterial'], pulmonary venous hypertension due to disorder of left heart, 0.5447097420692444, ['diastolic' 'dysfunction' 'there' 'is' 'no' 'ventricular' 'septal'
+ 'defect' 'right' 'ventricular'], pulmonary hypertension with extreme obesity, 0.5086326599121094, ['heart' 'failure' 'pulmonary' 'hypertension' 'on' 'home' 'secondary'
+ 'hypertension' 'diabetes' 'mellitus'], pulmonary venous hypertension as complication of procedure, 0.46020910143852234, ['of' 'systemic' 'hypertension' 'pulmonary' 'arterial' 'hypertension'
+ 'chronic' 'diastolic' 'chf' 'who'], pulmonary hypertension in lymphangioleiomyomatosis, 0.5294264554977417, ['chronic' 'diastolic' 'heart' 'failure' 'pulmonary' 'hypertension' 'on'
+ 'home' 'secondary' 'hypertension'], pulmonary hypertension due to left-sided valvular heart disease, 0.568644106388092, ['chronic' 'diastolic' 'heart' 'failure' 'pulmonary' 'hypertension' 'on'
+ 'home' 'secondary' 'hypertension'], associated pulmonary arterial hypertension, 0.5993506908416748, ['female' 'with' 'history' 'of' 'systemic' 'hypertension' 'pulmonary'
+ 'arterial' 'hypertension' 'chronic'], pulmonary arterial hypertension associated with human immunodeficiency virus infection, 0.5307647585868835, ['speaking' 'female' 'with' 'history' 'of' 'systemic' 'hypertension'
+ 'pulmonary' 'arterial' 'hypertension'], pulmonary hypertension associated with chronic underventilation, 0.5713099837303162, ['female' 'with' 'history' 'of' 'systemic' 'hypertension' 'pulmonary'
+ 'arterial' 'hypertension' 'chronic'], pulmonary hypertension due to interstitial lung disease, 0.5855230689048767, ['renal' 'failure' 'acute' 'on' 'chronic' 'diastolic' 'heart' 'failure'
+ 'pulmonary' 'hypertension'], pulmonary hypertension due to systolic systemic ventricular dysfunction, 0.6280840635299683, ['diastolic' 'dysfunction' 'there' 'is' 'no' 'ventricular' 'septal'
+ 'defect' 'right' 'ventricular'], pulmonary hypertension due to post-splenectomy hematological disorder, 0.4641035795211792, ['given' 'history' 'of' 'pulmonary' 'hypertension' 'atherosclerotic'
+ 'calcification' 'at' 'the' 'aorta'], pulmonary venous hypertension due to congenital stenosis of pulmonary vein, 0.5292434096336365, ['diastolic' 'dysfunction' 'there' 'is' 'no' 'ventricular' 'septal'
+ 'defect' 'right' 'ventricular'], pulmonary venous hypertension due to compression of pulmonary great vein by lymphadenopathy, 0.46607455611228943, ['diastolic' 'dysfunction' 'there' 'is' 'no' 'ventricular' 'septal'
+ 'defect' 'right' 'ventricular'], pulmonary veno-occlusive disease, 0.44338932633399963, ['definite' 'evidence' 'of' 'pneumonia' 'heart' 'size' 'is' 'stable'
+ 'pulmonary' 'arterial'], pulmonary arterial hypertension associated with chronic hemolytic anemia, 0.5969159603118896, ['female' 'with' 'history' 'of' 'systemic' 'hypertension' 'pulmonary'
+ 'arterial' 'hypertension' 'chronic'], pulmonary hypertension due to myeloproliferative disorder, 0.3587120473384857, ['regional' 'biventricular' 'systolic' 'function' 'no' 'pulmonary'
+ 'hypertension' 'seen' 'htn' 'type'], pulmonary hypertension due to sleep-disordered breathing, 0.4971970319747925, ['chronic' 'diastolic' 'heart' 'failure' 'pulmonary' 'hypertension' 'on'
+ 'home' 'secondary' 'hypertension'], pulmonary venous hypertension due to compression of pulmonary great vein by sclerosing mediastinitis, 0.46969079971313477, ['diastolic' 'dysfunction' 'there' 'is' 'no' 'ventricular' 'septal'
+ 'defect' 'right' 'ventricular']]
+[digestive structure, 0.26939651370048523, ['from' 'your' 'small' 'intestine' 'you' 'blood' 'counts']] [endocrine pancreatic structure, 0.23774182796478271, ['of' 'the' 'right' 'proximal' 'humerus' 'abdominal' 'ct'], endocrine structure, 0.21228106319904327, ['diabetes' 'mellitus' 'insulin' 'sliding' 'scale' 'while' 'in'], endocrine gonad, 0.22675535082817078, ['humerus' 'abdominal' 'ct' 'large' 'right' 'rectus' 'muscle']]
+[] []
+[] []
+[type ii diabetes mellitus without complication, 0.5188847184181213, ['hypertension' 'diabetes' 'mellitus' 'type' 'ii' 'chronic' 'pain' 'upper'
+ 'gi' 'bleed']] []
+[kidney structure, 0.33332177996635437, ['renal' 'failure' 'during' 'diuresis' 'for' 'acute' 'heart']] []
+[] []
+[] []
+[acute renal failure syndrome, 0.5692626237869263, ['acute' 'heart' 'failure' 'patient' 'developed' 'acute' 'renal' 'failure'
+ 'with' 'probable']] []
+[cardiac ventricular structure, 0.40695157647132874, ['echo' 'grade' 'mild' 'lv' 'diastolic' 'dysfunction' 'lv']] [myocardium structure, 0.29738369584083557, ['lv' 'inflow' 'pattern' 'suggests' 'impaired' 'relaxation' 'lvef']]
+[] []
+[] []
+[congestive heart failure, 0.728122889995575, ['primary' 'acute' 'on' 'chronic' 'congestive' 'heart' 'failure' 'copd'
+ 'pulmonary' 'hypertension']] []
+[kidney structure, 0.33332177996635437, ['renal' 'failure' 'during' 'diuresis' 'for' 'acute' 'heart']] []
+[] []
+[] []
+[chronic renal failure syndrome, 0.523904025554657, ['on' 'chronic' 'renal' 'failure' 'during' 'diuresis' 'for' 'acute'
+ 'heart' 'failure']] []
+[cardiac ventricular structure, 0.40695157647132874, ['echo' 'grade' 'mild' 'lv' 'diastolic' 'dysfunction' 'lv']] [myocardium structure, 0.29738369584083557, ['lv' 'inflow' 'pattern' 'suggests' 'impaired' 'relaxation' 'lvef']]
+[] []
+[] []
+[congestive heart failure, 0.4622524082660675, ['pleuredesis' 'chf' 'per' 'echo' 'grade' 'mild' 'lv' 'diastolic'
+ 'dysfunction' 'lv']] []
+[kidney structure, 0.2489875853061676, ['chronic' 'renal' 'insufficiency' 'baseline' 'creat' 'type' 'ii']] []
+[] []
+[] []
+[chronic renal failure syndrome, 0.4736912250518799, ['chronic' 'renal' 'insufficiency' 'baseline' 'creat' 'type' 'ii' 'dm'
+ 'hba' 'hyperlipidemia']] []
+[endocrine pancreatic structure, 0.24883604049682617, ['use' 'family' 'history' 'negative' 'for' 'diabetes' 'cardiac']] [digestive structure, 0.1852342039346695, ['rectus' 'sheath' 'hematoma' 'hemorrhoids' 'ugi' 'bleed' 'urinary'], endocrine structure, 0.17357724905014038, ['family' 'history' 'negative' 'for' 'diabetes' 'cardiac' 'disease'], endocrine gonad, 0.21064050495624542, ['small' 'adenomas' 'sessile' 'sigmoid' 'polyps' 'path' 'mucosal']]
+[] []
+[] []
+[type ii diabetes mellitus without complication, 0.47901853919029236, ['renal' 'insufficiency' 'baseline' 'creat' 'type' 'ii' 'dm' 'hba'
+ 'hyperlipidemia' 'chronic']] []
+[atrial structure, 0.2933138608932495, ['woman' 'with' 'past' 'medical' 'history' 'of' 'atrial']] [cardiac conducting system structure, 0.23223069310188293, ['five' 'minutes' 'cranial' 'nerves' 'were' 'intact' 'motor']]
+[] []
+[] []
+[atrial fibrillation, 0.5372177362442017, ['medical' 'history' 'of' 'atrial' 'fibrillation' 'and' 'ruptured'
+ 'diverticula' 'at' 'baseline']] []
+[cardiac conducting system structure, 0.3164340853691101, ['examined' 'lungs' 'cta' 'bilaterally' 'cardiac' 'irregular' 'hr']] [atrial structure, 0.25240084528923035, ['ventricle' 'is' 'not' 'well' 'visualized' 'left' 'temporal']]
+[] []
+[] []
+[atrial fibrillation, 0.40403318405151367, ['afib' 'ventral' 'hernia' 'neuropathy' 'on' 'side' 'neck' 'tumor'
+ 'surgery' 'diverticulitis']] []
+[cardiac ventricular structure, 0.34445133805274963, ['ventricle' 'ct' 'spine' 'no' 'evidence' 'of' 'acute']] [myocardium structure, 0.26416486501693726, ['ventricle' 'is' 'not' 'well' 'visualized' 'left' 'temporal']]
+[] []
+[] []
+[congestive heart failure, 0.44234174489974976, ['chf' 'post' 'op' 'echo' 'at' 'that' 'time' 'ef' 'mild' 'lvh']] []
+[] []
+[] []
+[] []
+[] []
+[intracranial subdural space structure, 0.5408225059509277, ['subdural' 'collection' 'surrounds' 'the' 'left' 'cerebral' 'convexity']] [intracranial structure, 0.2748856246471405, ['subdural' 'collection' 'surrounds' 'the' 'left' 'cerebral' 'convexity'], subdural space structure, 0.5195459127426147, ['subdural' 'collection' 'surrounds' 'the' 'left' 'cerebral' 'convexity'], head structure, 0.31965312361717224, ['head' 'showed' 'that' 'the' 'subacute' 'sdh' 'was'], vascular structure, 0.31449007987976074, ['tortuous' 'vessels' 'impression' 'no' 'significant' 'interval' 'change'], cerebrovascular system structure, 0.26568669080734253, ['ventricular' 'fibrillation' 'secondary' 'subdural' 'hematoma' 'urinary'
+ 'tract']]
+[] []
+[hemorrhage, 0.5449901223182678, ['axial' 'hemorrhage' 'encephalomalacia' 'in' 'right' 'mca' 'distribution']] []
+[subdural hemorrhage, 0.5934076905250549, ['appearance' 'of' 'large' 'left' 'sided' 'subdural' 'hematoma' 'status'
+ 'post' 'craniotomy']] []
+[atrial structure, 0.4387293756008148, ['subdural' 'hematoma' 'urinary' 'tract' 'infection' 'dyslipidemia'
+ 'atrial']] [cardiac conducting system structure, 0.32177019119262695, ['you' 'had' 'heart' 'attack' 'and' 'irregular' 'heart']]
+[] []
+[] []
+[atrial fibrillation, 0.7179775238037109, ['fibrillation' 'secondary' 'subdural' 'hematoma' 'urinary' 'tract'
+ 'infection' 'dyslipidemia' 'atrial' 'fibrillation']] []
+[cardiac ventricular structure, 0.47670722007751465, ['primary' 'st' 'segment' 'elevation' 'myocardial' 'infarction'
+ 'ventricular']] [myocardium structure, 0.29452815651893616, ['discharge' 'diagnosis' 'primary' 'st' 'segment' 'elevation' 'myocardial']]
+[] []
+[] []
+[congestive heart failure, 0.50163733959198, ['chf' 'echo' 'in' 'showed' 'ef' 'atrial' 'fibrillation' 'ventral'
+ 'hernia' 'neuropathy']] []
+[erythrocyte, 0.36253684759140015, ['correlation' 'is' 'requested' 'am' 'blood' 'wbc' 'rbc']] [body system structure, 0.18810304999351501, ['service' 'medicine' 'allergies' 'patient' 'recorded' 'as' 'having'], hematopoietic system structure, 0.20525288581848145, ['care' 'facility' 'for' 'the' 'aged' 'macu' 'discharge']]
+[diabetes mellitus type 2, 0.4604650139808655, ['urinary' 'tract' 'infection' 'dyslipidemia' 'atrial' 'fibrillation'
+ 'hypertension' 'discharge' 'condition']] [diabetes mellitus type 1, 0.4078264534473419, ['urinary' 'tract' 'infection' 'dyslipidemia' 'atrial' 'fibrillation'
+ 'hypertension' 'discharge' 'condition']]
+[] []
+[dyslipidemia due to type 2 diabetes mellitus, 0.4750753939151764, ['secondary' 'subdural' 'hematoma' 'urinary' 'tract' 'infection'
+ 'dyslipidemia' 'atrial' 'fibrillation' 'hypertension'], secondary hyperlipidemia, 0.46910494565963745, ['secondary' 'subdural' 'hematoma' 'urinary' 'tract' 'infection'
+ 'dyslipidemia' 'atrial' 'fibrillation' 'hypertension']] [hyperlipoproteinemia, 0.3449871242046356, ['secondary' 'subdural' 'hematoma' 'urinary' 'tract' 'infection'
+ 'dyslipidemia' 'atrial' 'fibrillation' 'hypertension'], dyslipidemia due to type 1 diabetes mellitus, 0.4180186092853546, ['urinary' 'tract' 'infection' 'dyslipidemia' 'atrial' 'fibrillation'
+ 'hypertension' 'discharge' 'condition' 'hemodynamically'], posttransplant hyperlipidemia, 0.38284367322921753, ['hematoma' 'urinary' 'tract' 'infection' 'dyslipidemia' 'atrial'
+ 'fibrillation' 'hypertension' 'discharge' 'condition'], alpha/beta lipoproteinemia, 0.1799704134464264, ['fibrillation' 'secondary' 'subdural' 'hematoma' 'urinary' 'tract'
+ 'infection' 'dyslipidemia' 'atrial' 'fibrillation'], familial combined hyperlipidemia, 0.38545089960098267, ['secondary' 'subdural' 'hematoma' 'urinary' 'tract' 'infection'
+ 'dyslipidemia' 'atrial' 'fibrillation' 'hypertension'], primary genetic hyperlipidemia, 0.3788564205169678, ['infection' 'dyslipidemia' 'atrial' 'fibrillation' 'hypertension'
+ 'discharge' 'condition' 'hemodynamically' 'stable' 'pain'], hyperlipidemia due to type 2 diabetes mellitus, 0.447273313999176, ['hematoma' 'urinary' 'tract' 'infection' 'dyslipidemia' 'atrial'
+ 'fibrillation' 'hypertension' 'discharge' 'condition'], primary "polygenic" type iib combined hyperlipidemia, 0.33628618717193604, ['secondary' 'subdural' 'hematoma' 'urinary' 'tract' 'infection'
+ 'dyslipidemia' 'atrial' 'fibrillation' 'hypertension'], secondary combined hyperlipidemia, 0.41891029477119446, ['secondary' 'subdural' 'hematoma' 'urinary' 'tract' 'infection'
+ 'dyslipidemia' 'atrial' 'fibrillation' 'hypertension'], hyperlipidemia due to type 1 diabetes mellitus, 0.39099639654159546, ['urinary' 'tract' 'infection' 'dyslipidemia' 'atrial' 'fibrillation'
+ 'hypertension' 'discharge' 'condition' 'hemodynamically'], primary combined hyperlipidemia, 0.3648838698863983, ['tract' 'infection' 'dyslipidemia' 'atrial' 'fibrillation' 'hypertension'
+ 'discharge' 'condition' 'hemodynamically' 'stable'], hypercholesterolemia, 0.4216099977493286, ['secondary' 'subdural' 'hematoma' 'urinary' 'tract' 'infection'
+ 'dyslipidemia' 'atrial' 'fibrillation' 'hypertension'], chemically induced hyperlipidemia, 0.3263968527317047, ['tract' 'infection' 'dyslipidemia' 'atrial' 'fibrillation' 'hypertension'
+ 'discharge' 'condition' 'hemodynamically' 'stable'], familial multiple lipoprotein-type hyperlipidemia, 0.3750169575214386, ['subdural' 'hematoma' 'urinary' 'tract' 'infection' 'dyslipidemia'
+ 'atrial' 'fibrillation' 'hypertension' 'discharge'], hyperlipidemia caused by steroid, 0.3202655017375946, ['infection' 'dyslipidemia' 'atrial' 'fibrillation' 'hypertension'
+ 'discharge' 'condition' 'hemodynamically' 'stable' 'pain'], dyslipidemia with high density lipoprotein below reference range and triglyceride above reference range due to type 2 diabetes mellitus, 0.42719200253486633, ['urinary' 'tract' 'infection' 'dyslipidemia' 'atrial' 'fibrillation'
+ 'hypertension' 'discharge' 'condition' 'hemodynamically'], disorder of lipoprotein storage and metabolism, 0.2651558816432953, ['infarction' 'ventricular' 'fibrillation' 'secondary' 'subdural'
+ 'hematoma' 'urinary' 'tract' 'infection' 'dyslipidemia'], complex dyslipidemia, 0.4109515845775604, ['infection' 'dyslipidemia' 'atrial' 'fibrillation' 'hypertension'
+ 'discharge' 'condition' 'hemodynamically' 'stable' 'pain'], hyperlipidemia, 0.4546637237071991, ['tract' 'infection' 'dyslipidemia' 'atrial' 'fibrillation' 'hypertension'
+ 'discharge' 'condition' 'hemodynamically' 'stable'], hyperlipidemia with lipid deposition in skin, 0.282977819442749, ['infection' 'dyslipidemia' 'atrial' 'fibrillation' 'hypertension'
+ 'discharge' 'condition' 'hemodynamically' 'stable' 'pain'], hyperalphalipoproteinemia, 0.28382351994514465, ['ventricular' 'fibrillation' 'secondary' 'subdural' 'hematoma' 'urinary'
+ 'tract' 'infection' 'dyslipidemia' 'atrial']]
+[cardiac ventricular structure, 0.5663256049156189, ['ventricular' 'hypertrophy' 'right' 'ventricular' 'systolic' 'function'
+ 'is']] [myocardium structure, 0.39062145352363586, ['the' 'right' 'ventricular' 'free' 'wall' 'is' 'hypertrophied']]
+[] []
+[] []
+[congestive heart failure, 0.6326645016670227, ['stage' 'copd' 'acute' 'renal' 'failure' 'systolic' 'and' 'diastolic'
+ 'heart' 'failure']] []
+[atrial structure, 0.48457589745521545, ['systolic' 'and' 'diastolic' 'heart' 'failure' 'secondary' 'atrial']] [cardiac conducting system structure, 0.4049365222454071, ['the' 'supporting' 'structures' 'of' 'the' 'tricuspid' 'valve']]
+[] []
+[] []
+[atrial fibrillation, 0.6446189880371094, ['systolic' 'and' 'diastolic' 'heart' 'failure' 'secondary' 'atrial'
+ 'fibrillation' 'anemia' 'subdural']] []
+[joint structure of shoulder girdle, 0.4216573238372803, ['reveal' 'erosive' 'changes' 'of' 'shoulder' 'but' 'in']] [glenohumeral joint structure, 0.38114312291145325, ['cause' 'of' 'erosive' 'changes' 'thus' 'right' 'shoulder'], joint structure of shoulder region, 0.4041685163974762, ['imaging' 'did' 'reveal' 'erosive' 'changes' 'of' 'shoulder']]
+[] []
+[effusion, 0.6998193860054016, ['revealed' 'effusions' 'and' 'pulmonary' 'edema' 'transudative'
+ 'effusion']] []
+[effusion of joint of shoulder region, 0.5466116666793823, ['of' 'erosive' 'changes' 'thus' 'right' 'shoulder' 'effusion' 'was' 'not'
+ 'tapped']] []
+[hematological system, 0.24819263815879822, ['systems' 'no' 'fevers' 'weight' 'changes' 'no' 'nausea']] [body system structure, 0.20749537646770477, ['systems' 'no' 'fevers' 'weight' 'changes' 'no' 'nausea'], erythrocyte, 0.24235092103481293, ['hematocrit' 'platelets' 'inr' 'sodium' 'potassium' 'chloride' 'co'], hematopoietic system structure, 0.22509104013442993, ['alcohol' 'use' 'review' 'of' 'systems' 'no' 'fevers'], anatomical structure, 0.22774456441402435, ['incision' 'left' 'lower' 'extremity' 'is' 'an' 'endoscopic'], erythroid cell, 0.23259520530700684, ['in' 'thalassemia' 'status' 'post' 'cataract' 'surgery' 'venous']]
+[] []
+[hydrops, 0.2455742508172989, ['back' 'pain' 'arthritis' 'thalassemia' 'bladder' 'prolapse' 'status']] [drepanocyte, 0.20245258510112762, ['discharge' 'hematocrit' 'potassium' 'bun' 'creatinine' 'potassium'
+ 'from']]
+[delta-beta-lepore thalassemia, 0.5295112729072571, ['in' 'thalassemia' 'status' 'post' 'cataract' 'surgery' 'venous' 'stasis'
+ 'allergies' 'the'], thalassemia, 0.5295112729072571, ['in' 'thalassemia' 'status' 'post' 'cataract' 'surgery' 'venous' 'stasis'
+ 'allergies' 'the'], delta^0^ thalassemia, 0.5298085808753967, ['thalassemia' 'status' 'post' 'cataract' 'surgery' 'venous' 'stasis'
+ 'allergies' 'the' 'patient']] [a>gamma< delta beta^0^ thalassemia, 0.4229039251804352, ['thalassemia' 'status' 'post' 'cataract' 'surgery' 'venous' 'stasis'
+ 'allergies' 'the' 'patient'], epsilon gamma delta beta thalassemia, 0.36963438987731934, ['prolapse' 'mi' 'in' 'thalassemia' 'status' 'post' 'cataract' 'surgery'
+ 'venous' 'stasis'], beta^+^ thalassemia, normal hb a>2<, type 1, silent, 0.4296402633190155, ['bladder' 'prolapse' 'mi' 'in' 'thalassemia' 'status' 'post' 'cataract'
+ 'surgery' 'venous'], hemoglobin e/beta thalassemia disease, 0.5185855031013489, ['thalassemia' 'status' 'post' 'cataract' 'surgery' 'venous' 'stasis'
+ 'allergies' 'the' 'patient'], gamma thalassemia, 0.45040231943130493, ['the' 'obtuse' 'marginal' 'hypertension' 'hypercholesterolemia' 'low'
+ 'back' 'pain' 'arthritis' 'thalassemia'], delta beta thalassemia, 0.42171117663383484, ['in' 'thalassemia' 'status' 'post' 'cataract' 'surgery' 'venous' 'stasis'
+ 'allergies' 'the'], thalassemia syndrome, 0.5084376335144043, ['thalassemia' 'status' 'post' 'cataract' 'surgery' 'venous' 'stasis'
+ 'allergies' 'the' 'patient'], beta^0^ thalassemia, deletion type, 0.41988635063171387, ['removal' 'bladder' 'prolapse' 'mi' 'in' 'thalassemia' 'status' 'post'
+ 'cataract' 'surgery'], sickle cell-delta beta^0^-thalassemia, 0.2505495250225067, ['prolapse' 'mi' 'in' 'thalassemia' 'status' 'post' 'cataract' 'surgery'
+ 'venous' 'stasis'], beta^0^ thalassemia, nondeletion type, 0.4578689634799957, ['the' 'obtuse' 'marginal' 'hypertension' 'hypercholesterolemia' 'low'
+ 'back' 'pain' 'arthritis' 'thalassemia'], homozygous beta thalassemia, 0.45364588499069214, ['in' 'thalassemia' 'status' 'post' 'cataract' 'surgery' 'venous' 'stasis'
+ 'allergies' 'the'], beta^+^ thalassemia, 0.48293164372444153, ['in' 'thalassemia' 'status' 'post' 'cataract' 'surgery' 'venous' 'stasis'
+ 'allergies' 'the'], hereditary persistence of fetal hemoglobin thalassemia, 0.4467814862728119, ['thalassemia' 'status' 'post' 'cataract' 'surgery' 'venous' 'stasis'
+ 'allergies' 'the' 'patient'], beta thalassemia intermedia, 0.4532001316547394, ['in' 'thalassemia' 'status' 'post' 'cataract' 'surgery' 'venous' 'stasis'
+ 'allergies' 'the'], hemoglobin constant spring trait, 0.2736324071884155, ['thalassemia' 'bladder' 'prolapse' 'status' 'post' 'cataract' 'surgery'
+ 'status' 'post' 'cyst'], heterozygous thalassemia, 0.48993590474128723, ['in' 'thalassemia' 'status' 'post' 'cataract' 'surgery' 'venous' 'stasis'
+ 'allergies' 'the'], epsilon gamma delta beta^0^ thalassemia, 0.3856768310070038, ['thalassemia' 'status' 'post' 'cataract' 'surgery' 'venous' 'stasis'
+ 'allergies' 'the' 'patient'], delta thalassemia, 0.45924460887908936, ['in' 'thalassemia' 'status' 'post' 'cataract' 'surgery' 'venous' 'stasis'
+ 'allergies' 'the'], alpha^+^ thalassemia, nondeletion type, 0.43835195899009705, ['the' 'obtuse' 'marginal' 'hypertension' 'hypercholesterolemia' 'low'
+ 'back' 'pain' 'arthritis' 'thalassemia'], hemoglobin bart's hydrops syndrome, 0.3530009984970093, ['pain' 'arthritis' 'thalassemia' 'bladder' 'prolapse' 'status' 'post'
+ 'cataract' 'surgery' 'status'], sickle cell-beta-thalassemia, 0.2505495250225067, ['prolapse' 'mi' 'in' 'thalassemia' 'status' 'post' 'cataract' 'surgery'
+ 'venous' 'stasis'], sickle cell anemia with coexistent alpha-thalassemia, 0.3430732786655426, ['prolapse' 'mi' 'in' 'thalassemia' 'status' 'post' 'cataract' 'surgery'
+ 'venous' 'stasis'], sickle cell-thalassemia disease, 0.33152565360069275, ['the' 'obtuse' 'marginal' 'hypertension' 'hypercholesterolemia' 'low'
+ 'back' 'pain' 'arthritis' 'thalassemia'], alpha thalassemia, 0.47577691078186035, ['the' 'obtuse' 'marginal' 'hypertension' 'hypercholesterolemia' 'low'
+ 'back' 'pain' 'arthritis' 'thalassemia'], delta beta^0^ thalassemia, 0.4391932785511017, ['in' 'thalassemia' 'status' 'post' 'cataract' 'surgery' 'venous' 'stasis'
+ 'allergies' 'the'], beta^+^ thalassemia, normal hb a>2<, type 2, 0.44936782121658325, ['in' 'thalassemia' 'status' 'post' 'cataract' 'surgery' 'venous' 'stasis'
+ 'allergies' 'the'], sickle cell-beta^0^-thalassemia, 0.2505495250225067, ['prolapse' 'mi' 'in' 'thalassemia' 'status' 'post' 'cataract' 'surgery'
+ 'venous' 'stasis'], a>gamma< beta^+^ hpfh and beta^0^ thalassemia in cis, 0.40128013491630554, ['thalassemia' 'status' 'post' 'cataract' 'surgery' 'venous' 'stasis'
+ 'allergies' 'the' 'patient'], thalassemia major, 0.5182945132255554, ['in' 'thalassemia' 'status' 'post' 'cataract' 'surgery' 'venous' 'stasis'
+ 'allergies' 'the'], hpfh linked to beta-globulin gene cluster, 0.17083480954170227, ['mi' 'in' 'thalassemia' 'status' 'post' 'cataract' 'surgery' 'venous'
+ 'stasis' 'allergies'], alpha^+^ thalassemia, 0.47577691078186035, ['the' 'obtuse' 'marginal' 'hypertension' 'hypercholesterolemia' 'low'
+ 'back' 'pain' 'arthritis' 'thalassemia'], alpha trait thalassemia, 0.43973007798194885, ['thalassemia' 'status' 'post' 'cataract' 'surgery' 'venous' 'stasis'
+ 'allergies' 'the' 'patient'], beta thalassemia trait, 0.45904722809791565, ['thalassemia' 'status' 'post' 'cataract' 'surgery' 'venous' 'stasis'
+ 'allergies' 'the' 'patient'], hb lepore thalassemia, 0.45022162795066833, ['thalassemia' 'status' 'post' 'cataract' 'surgery' 'venous' 'stasis'
+ 'allergies' 'the' 'patient'], acquired hemoglobin h disease, 0.28149786591529846, ['pain' 'arthritis' 'thalassemia' 'bladder' 'prolapse' 'status' 'post'
+ 'cataract' 'surgery' 'status'], sickle cell trait with coexistent alpha-thalassemia, 0.3082127571105957, ['removal' 'bladder' 'prolapse' 'mi' 'in' 'thalassemia' 'status' 'post'
+ 'cataract' 'surgery'], alpha thalassemia-2 trait, 0.19720576703548431, ['days' 'the' 'patient' 'had' 'an' 'uneventful' 'postoperative' 'course'
+ 'her' 'beta'], thalassemia intermedia, 0.48006728291511536, ['in' 'thalassemia' 'status' 'post' 'cataract' 'surgery' 'venous' 'stasis'
+ 'allergies' 'the'], hemoglobin h disease, 0.28649333119392395, ['pain' 'arthritis' 'thalassemia' 'bladder' 'prolapse' 'status' 'post'
+ 'cataract' 'surgery' 'status'], beta thalassemia, 0.48293164372444153, ['in' 'thalassemia' 'status' 'post' 'cataract' 'surgery' 'venous' 'stasis'
+ 'allergies' 'the'], homozygous alpha thalassemia, 0.4543629288673401, ['in' 'thalassemia' 'status' 'post' 'cataract' 'surgery' 'venous' 'stasis'
+ 'allergies' 'the'], alpha^+^ thalassemia, deletion type, 0.40914085507392883, ['the' 'obtuse' 'marginal' 'hypertension' 'hypercholesterolemia' 'low'
+ 'back' 'pain' 'arthritis' 'thalassemia'], thalassemia with other hemoglobinopathy, 0.44263091683387756, ['in' 'thalassemia' 'status' 'post' 'cataract' 'surgery' 'venous' 'stasis'
+ 'allergies' 'the'], alpha^0^ thalassemia, 0.5185719132423401, ['thalassemia' 'status' 'post' 'cataract' 'surgery' 'venous' 'stasis'
+ 'allergies' 'the' 'patient'], alpha-beta thalassemia, 0.46817830204963684, ['thalassemia' 'status' 'post' 'cataract' 'surgery' 'venous' 'stasis'
+ 'allergies' 'the' 'patient'], beta^0^ thalassemia, 0.5188452005386353, ['thalassemia' 'status' 'post' 'cataract' 'surgery' 'venous' 'stasis'
+ 'allergies' 'the' 'patient'], sickle cell-beta^+^-thalassemia, 0.2505495250225067, ['prolapse' 'mi' 'in' 'thalassemia' 'status' 'post' 'cataract' 'surgery'
+ 'venous' 'stasis'], hemoglobin lepore trait, 0.2900691330432892, ['removal' 'bladder' 'prolapse' 'mi' 'in' 'thalassemia' 'status' 'post'
+ 'cataract' 'surgery'], leptocytosis, 0.13415557146072388, ['hypertension' 'hypercholesterolemia' 'low' 'back' 'pain' 'arthritis'
+ 'thalassemia' 'bladder' 'prolapse' 'status']]
+[erythrocyte, 0.24235092103481293, ['hematocrit' 'platelets' 'inr' 'sodium' 'potassium' 'chloride' 'co']] [body system structure, 0.20749537646770477, ['systems' 'no' 'fevers' 'weight' 'changes' 'no' 'nausea'], hematopoietic system structure, 0.22509104013442993, ['alcohol' 'use' 'review' 'of' 'systems' 'no' 'fevers']]
+[diabetes mellitus type 2, 0.3962658941745758, ['obtuse' 'marginal' 'hypertension' 'hypercholesterolemia' 'low' 'back'
+ 'pain' 'arthritis' 'thalassemia']] [diabetes mellitus type 1, 0.357418417930603, ['diabetes' 'no' 'tias' 'no' 'cva' 'poor' 'exercise' 'tolerance' 'due']]
+[] []
+[hypercholesterolemia, 0.5298322439193726, ['hypertension' 'hypercholesterolemia' 'low' 'back' 'pain' 'arthritis'
+ 'thalassemia' 'bladder' 'prolapse' 'status'], hyperlipidemia, 0.5252594351768494, ['arthritis' 'hypertension' 'hyperlipidemia' 'cyst' 'removal' 'bladder'
+ 'prolapse' 'mi' 'in' 'thalassemia']] [hyperlipoproteinemia, 0.37105128169059753, ['hypertension' 'hypercholesterolemia' 'low' 'back' 'pain' 'arthritis'
+ 'thalassemia' 'bladder' 'prolapse' 'status'], dyslipidemia due to type 1 diabetes mellitus, 0.40747275948524475, ['diabetes' 'no' 'tias' 'no' 'cva' 'poor' 'exercise' 'tolerance' 'due'
+ 'to'], posttransplant hyperlipidemia, 0.4028981626033783, ['hyperlipidemia' 'cyst' 'removal' 'bladder' 'prolapse' 'mi' 'in'
+ 'thalassemia' 'status' 'post'], dyslipidemia due to type 2 diabetes mellitus, 0.42226019501686096, ['hyperlipidemia' 'cyst' 'removal' 'bladder' 'prolapse' 'mi' 'in'
+ 'thalassemia' 'status' 'post'], alpha/beta lipoproteinemia, 0.19542773067951202, ['days' 'the' 'patient' 'had' 'an' 'uneventful' 'postoperative' 'course'
+ 'her' 'beta'], familial combined hyperlipidemia, 0.45224305987358093, ['hyperlipidemia' 'cyst' 'removal' 'bladder' 'prolapse' 'mi' 'in'
+ 'thalassemia' 'status' 'post'], primary genetic hyperlipidemia, 0.41841238737106323, ['hyperlipidemia' 'cyst' 'removal' 'bladder' 'prolapse' 'mi' 'in'
+ 'thalassemia' 'status' 'post'], hyperlipidemia due to type 2 diabetes mellitus, 0.4704466164112091, ['hyperlipidemia' 'cyst' 'removal' 'bladder' 'prolapse' 'mi' 'in'
+ 'thalassemia' 'status' 'post'], primary "polygenic" type iib combined hyperlipidemia, 0.3405066132545471, ['hyperlipidemia' 'cyst' 'removal' 'bladder' 'prolapse' 'mi' 'in'
+ 'thalassemia' 'status' 'post'], secondary combined hyperlipidemia, 0.4297942519187927, ['hyperlipidemia' 'cyst' 'removal' 'bladder' 'prolapse' 'mi' 'in'
+ 'thalassemia' 'status' 'post'], hyperlipidemia due to type 1 diabetes mellitus, 0.4404149651527405, ['hyperlipidemia' 'cyst' 'removal' 'bladder' 'prolapse' 'mi' 'in'
+ 'thalassemia' 'status' 'post'], primary combined hyperlipidemia, 0.41550394892692566, ['hyperlipidemia' 'cyst' 'removal' 'bladder' 'prolapse' 'mi' 'in'
+ 'thalassemia' 'status' 'post'], chemically induced hyperlipidemia, 0.3792312443256378, ['pain' 'arthritis' 'hypertension' 'hyperlipidemia' 'cyst' 'removal'
+ 'bladder' 'prolapse' 'mi' 'in'], familial multiple lipoprotein-type hyperlipidemia, 0.4719196856021881, ['hyperlipidemia' 'cyst' 'removal' 'bladder' 'prolapse' 'mi' 'in'
+ 'thalassemia' 'status' 'post'], hyperlipidemia caused by steroid, 0.36845678091049194, ['past' 'medical' 'history' 'low' 'back' 'pain' 'arthritis' 'hypertension'
+ 'hyperlipidemia' 'cyst'], dyslipidemia with high density lipoprotein below reference range and triglyceride above reference range due to type 2 diabetes mellitus, 0.3577800691127777, ['have' 'baseline' 'poor' 'appetite' 'positive' 'frequency' 'and'
+ 'nocturia' 'no' 'diabetes'], disorder of lipoprotein storage and metabolism, 0.23375527560710907, ['zocor' 'mg' 'daily' 'aspirin' 'vasotec' 'atenolol' 'daily' 'family'
+ 'history' 'brother'], secondary hyperlipidemia, 0.4740085005760193, ['hyperlipidemia' 'cyst' 'removal' 'bladder' 'prolapse' 'mi' 'in'
+ 'thalassemia' 'status' 'post'], complex dyslipidemia, 0.33896344900131226, ['hyperlipidemia' 'cyst' 'removal' 'bladder' 'prolapse' 'mi' 'in'
+ 'thalassemia' 'status' 'post'], hyperlipidemia with lipid deposition in skin, 0.3318152129650116, ['hyperlipidemia' 'cyst' 'removal' 'bladder' 'prolapse' 'mi' 'in'
+ 'thalassemia' 'status' 'post'], hyperalphalipoproteinemia, 0.31783759593963623, ['hypercholesterolemia' 'low' 'back' 'pain' 'arthritis' 'thalassemia'
+ 'bladder' 'prolapse' 'status' 'post']]
+[coronary artery structure, 0.5141874551773071, ['to' 'right' 'coronary' 'artery' 'saphenous' 'vein' 'graft']] [cardiac internal structure, 0.3301074206829071, ['cardiac' 'regular' 'rate' 'and' 'rhythm' 'the' 'sternum'], myocardium structure, 0.2391846477985382, ['the' 'left' 'anterior' 'descending' 'saphenous' 'vein' 'graft']]
+[] []
+[healed infarct, 0.32865285873413086, ['mi' 'in' 'thalassemia' 'status' 'post' 'cataract' 'surgery']] [arteriosclerosis, 0.2825666666030884, ['arterial' 'pressure' 'was' 'with' 'pad' 'of' 'she'], thrombus, 0.2173127382993698, ['count' 'hematocrit' 'platelets' 'inr' 'sodium' 'potassium' 'chloride'], atherosclerosis, 0.3211696743965149, ['hypercholesterolemia' 'low' 'back' 'pain' 'arthritis' 'thalassemia'
+ 'bladder'], infarct, 0.31257617473602295, ['no' 'tias' 'no' 'cva' 'poor' 'exercise' 'tolerance']]
+[old myocardial infarction, 0.40017634630203247, ['bladder' 'prolapse' 'mi' 'in' 'thalassemia' 'status' 'post' 'cataract'
+ 'surgery' 'venous']] []
+[venous structure, 0.3631228804588318, ['in' 'thalassemia' 'status' 'post' 'cataract' 'surgery' 'venous']] [structure of peripheral vein, 0.3312622606754303, ['left' 'lower' 'extremity' 'is' 'an' 'endoscopic' 'vein']]
+[] []
+[] []
+[peripheral venous insufficiency, 0.3756239116191864, ['prolapse' 'mi' 'in' 'thalassemia' 'status' 'post' 'cataract' 'surgery'
+ 'venous' 'stasis']] []
+[coronary artery structure, 0.35934412479400635, ['cad' 'status' 'post' 'acute' 'mi' 'hypertension' 'cataract']] []
+[] []
+[atherosclerosis, 0.3807646334171295, ['insufficiency' 'cad' 'status' 'post' 'acute' 'mi' 'hypertension']] []
+[atherosclerosis of coronary artery, 0.41813549399375916, ['venous' 'insufficiency' 'cad' 'status' 'post' 'acute' 'mi'
+ 'hypertension' 'cataract' 'os']] []
+[] []
+[] []
+[] []
+[] []
+[atrial structure, 0.4249812960624695, ['found' 'to' 'have' 'an' 'arrhythmia' 'called' 'atrial']] [cardiac conducting system structure, 0.3273831307888031, ['atrial' 'pacemaker' 'in' 'the' 'amiodarone' 'was' 'started']]
+[] []
+[] []
+[atrial fibrillation, 0.5537969470024109, ['atrial' 'flutter' 'cad' 'cabg' 'htn' 'presents' 'with' 'asymptomatic'
+ 'tachycardia' 'patient']] []
+[venous structure, 0.32326123118400574, ['by' 'mixed' 'incontinence' 'thallasemia' 'chronic' 'venous'
+ 'insuffiency']] [structure of peripheral vein, 0.22873862087726593, ['pleural' 'effusion' 'heart' 'size' 'is' 'top' 'normal']]
+[] []
+[] []
+[peripheral venous insufficiency, 0.4085233509540558, ['back' 'pain' 'cystocele' 'complicated' 'by' 'mixed' 'incontinence'
+ 'thallasemia' 'chronic' 'venous']] []
+[erythrocyte, 0.4028346836566925, ['on' 'admission' 'hematology' 'pm' 'blood' 'wbc' 'rbc']] [body system structure, 0.17707855999469757, ['general' 'appearance' 'elderly' 'woman' 'in' 'no' 'distress'], hematopoietic system structure, 0.213545560836792, ['amiodarone' 'therapy' 'provider' 'phone' 'date' 'time' 'thyroid']]
+[diabetes mellitus type 2, 0.4210023283958435, ['history' 'positive' 'for' 'diabetes' 'in' 'her' 'sister' 'and' 'cad']] [diabetes mellitus type 1, 0.3877542316913605, ['diabetes' 'in' 'her' 'sister' 'and' 'cad' 'in' 'her' 'brother']]
+[] []
+[secondary hyperlipidemia, 0.5102164149284363, ['cad' 'prior' 'mi' 'hypertension' 'hyperlipidemia' 'djd' 'right' 'knee'
+ 'pud' 'healing'], hyperlipidemia, 0.5658788681030273, ['cad' 'prior' 'mi' 'hypertension' 'hyperlipidemia' 'djd' 'right' 'knee'
+ 'pud' 'healing']] [hyperlipoproteinemia, 0.3516930937767029, ['was' 'which' 'is' 'relatively' 'stable' 'hyperlipidemia' 'discharged'
+ 'on' 'pravastatin' 'thyroid'], dyslipidemia due to type 1 diabetes mellitus, 0.40955203771591187, ['years' 'ago' 'occasional' 'alcohol' 'family' 'history' 'positive' 'for'
+ 'diabetes' 'in'], posttransplant hyperlipidemia, 0.45415088534355164, ['which' 'is' 'relatively' 'stable' 'hyperlipidemia' 'discharged' 'on'
+ 'pravastatin' 'thyroid' 'nodule'], dyslipidemia due to type 2 diabetes mellitus, 0.4403880834579468, ['which' 'is' 'relatively' 'stable' 'hyperlipidemia' 'discharged' 'on'
+ 'pravastatin' 'thyroid' 'nodule'], alpha/beta lipoproteinemia, 0.18796521425247192, ['pre' 'pyloric' 'ulcer' 'on' 'egd' 'sigmoid' 'diverticulosis' 'anemia'
+ 'peripheral' 'neuropathy'], familial combined hyperlipidemia, 0.45693281292915344, ['which' 'is' 'relatively' 'stable' 'hyperlipidemia' 'discharged' 'on'
+ 'pravastatin' 'thyroid' 'nodule'], primary genetic hyperlipidemia, 0.42716386914253235, ['pda' 'cad' 'prior' 'mi' 'hypertension' 'hyperlipidemia' 'djd' 'right'
+ 'knee' 'pud'], hyperlipidemia due to type 2 diabetes mellitus, 0.4803687632083893, ['which' 'is' 'relatively' 'stable' 'hyperlipidemia' 'discharged' 'on'
+ 'pravastatin' 'thyroid' 'nodule'], primary "polygenic" type iib combined hyperlipidemia, 0.3920659124851227, ['which' 'is' 'relatively' 'stable' 'hyperlipidemia' 'discharged' 'on'
+ 'pravastatin' 'thyroid' 'nodule'], secondary combined hyperlipidemia, 0.40634381771087646, ['was' 'which' 'is' 'relatively' 'stable' 'hyperlipidemia' 'discharged'
+ 'on' 'pravastatin' 'thyroid'], hyperlipidemia due to type 1 diabetes mellitus, 0.4423334300518036, ['which' 'is' 'relatively' 'stable' 'hyperlipidemia' 'discharged' 'on'
+ 'pravastatin' 'thyroid' 'nodule'], primary combined hyperlipidemia, 0.4138851761817932, ['which' 'is' 'relatively' 'stable' 'hyperlipidemia' 'discharged' 'on'
+ 'pravastatin' 'thyroid' 'nodule'], hypercholesterolemia, 0.458222895860672, ['cad' 'prior' 'mi' 'hypertension' 'hyperlipidemia' 'djd' 'right' 'knee'
+ 'pud' 'healing'], chemically induced hyperlipidemia, 0.4192223846912384, ['cad' 'prior' 'mi' 'hypertension' 'hyperlipidemia' 'djd' 'right' 'knee'
+ 'pud' 'healing'], familial multiple lipoprotein-type hyperlipidemia, 0.47357815504074097, ['vna' 'discharge' 'diagnosis' 'atrial' 'flutter' 'coronary' 'artery'
+ 'disease' 'hypertension' 'hyperlipidemia'], hyperlipidemia caused by steroid, 0.40673667192459106, ['diagnosis' 'atrial' 'flutter' 'coronary' 'artery' 'disease'
+ 'hypertension' 'hyperlipidemia' 'discharge' 'condition'], dyslipidemia with high density lipoprotein below reference range and triglyceride above reference range due to type 2 diabetes mellitus, 0.4221195578575134, ['which' 'is' 'relatively' 'stable' 'hyperlipidemia' 'discharged' 'on'
+ 'pravastatin' 'thyroid' 'nodule'], disorder of lipoprotein storage and metabolism, 0.26096102595329285, ['which' 'is' 'relatively' 'stable' 'hyperlipidemia' 'discharged' 'on'
+ 'pravastatin' 'thyroid' 'nodule'], complex dyslipidemia, 0.34751200675964355, ['which' 'is' 'relatively' 'stable' 'hyperlipidemia' 'discharged' 'on'
+ 'pravastatin' 'thyroid' 'nodule'], hyperlipidemia with lipid deposition in skin, 0.35044294595718384, ['which' 'is' 'relatively' 'stable' 'hyperlipidemia' 'discharged' 'on'
+ 'pravastatin' 'thyroid' 'nodule'], hyperalphalipoproteinemia, 0.3033299744129181, ['incontinence' 'thallasemia' 'chronic' 'venous' 'insuffiency' 'dub' 'djd'
+ 'right' 'knee' 'cataract']]
+[erythrocyte, 0.4028346836566925, ['on' 'admission' 'hematology' 'pm' 'blood' 'wbc' 'rbc']] [body system structure, 0.17707855999469757, ['general' 'appearance' 'elderly' 'woman' 'in' 'no' 'distress'], hematological system, 0.3237067461013794, ['on' 'admission' 'hematology' 'pm' 'blood' 'wbc' 'rbc'], hematopoietic system structure, 0.213545560836792, ['amiodarone' 'therapy' 'provider' 'phone' 'date' 'time' 'thyroid'], anatomical structure, 0.2446289211511612, ['is' 'tortuous' 'and' 'calcified' 'the' 'hilar' 'contours'], erythroid cell, 0.3102685809135437, ['of' 'thalassemia' 'hematocrit' 'on' 'admission' 'was' 'which']]
+[] []
+[drepanocyte, 0.2579561173915863, ['dose' 'enalapril' 'mg' 'daily' 'thalassemia' 'low' 'mcv']] [hydrops, 0.2444630116224289, ['diagnosis' 'of' 'thalassemia' 'hematocrit' 'on' 'admission' 'was']]
+[delta-beta-lepore thalassemia, 0.6012685298919678, ['daily' 'thalassemia' 'low' 'mcv' 'and' 'normal' 'serum' 'iron' 'level'
+ 'were'], thalassemia, 0.6012685298919678, ['daily' 'thalassemia' 'low' 'mcv' 'and' 'normal' 'serum' 'iron' 'level'
+ 'were'], hb lepore thalassemia, 0.6152840256690979, ['thalassemia' 'low' 'mcv' 'and' 'normal' 'serum' 'iron' 'level' 'were'
+ 'consistent']] [a>gamma< delta beta^0^ thalassemia, 0.5084818601608276, ['known' 'diagnosis' 'of' 'thalassemia' 'hematocrit' 'on' 'admission'
+ 'was' 'which' 'is'], epsilon gamma delta beta thalassemia, 0.45436325669288635, ['of' 'thalassemia' 'hematocrit' 'on' 'admission' 'was' 'which' 'is'
+ 'relatively' 'stable'], beta^+^ thalassemia, normal hb a>2<, type 1, silent, 0.5552201271057129, ['mg' 'daily' 'thalassemia' 'low' 'mcv' 'and' 'normal' 'serum' 'iron'
+ 'level'], hemoglobin e/beta thalassemia disease, 0.5848684310913086, ['mg' 'daily' 'thalassemia' 'low' 'mcv' 'and' 'normal' 'serum' 'iron'
+ 'level'], gamma thalassemia, 0.5193884372711182, ['daily' 'thalassemia' 'low' 'mcv' 'and' 'normal' 'serum' 'iron' 'level'
+ 'were'], delta beta thalassemia, 0.5155429840087891, ['mg' 'daily' 'thalassemia' 'low' 'mcv' 'and' 'normal' 'serum' 'iron'
+ 'level'], thalassemia syndrome, 0.5429924130439758, ['daily' 'thalassemia' 'low' 'mcv' 'and' 'normal' 'serum' 'iron' 'level'
+ 'were'], beta^0^ thalassemia, deletion type, 0.4836213290691376, ['mg' 'daily' 'thalassemia' 'low' 'mcv' 'and' 'normal' 'serum' 'iron'
+ 'level'], sickle cell-delta beta^0^-thalassemia, 0.24264921247959137, ['iron' 'level' 'were' 'consistent' 'with' 'known' 'diagnosis' 'of'
+ 'thalassemia' 'hematocrit'], beta^0^ thalassemia, nondeletion type, 0.5458167791366577, ['mg' 'daily' 'thalassemia' 'low' 'mcv' 'and' 'normal' 'serum' 'iron'
+ 'level'], homozygous beta thalassemia, 0.5376710891723633, ['enalapril' 'mg' 'daily' 'thalassemia' 'low' 'mcv' 'and' 'normal' 'serum'
+ 'iron'], beta^+^ thalassemia, 0.5624737739562988, ['mg' 'daily' 'thalassemia' 'low' 'mcv' 'and' 'normal' 'serum' 'iron'
+ 'level'], delta^0^ thalassemia, 0.5868362784385681, ['thalassemia' 'low' 'mcv' 'and' 'normal' 'serum' 'iron' 'level' 'were'
+ 'consistent'], hereditary persistence of fetal hemoglobin thalassemia, 0.5638062357902527, ['daily' 'thalassemia' 'low' 'mcv' 'and' 'normal' 'serum' 'iron' 'level'
+ 'were'], beta thalassemia intermedia, 0.5028433203697205, ['mg' 'daily' 'thalassemia' 'low' 'mcv' 'and' 'normal' 'serum' 'iron'
+ 'level'], hemoglobin constant spring trait, 0.39384397864341736, ['thalassemia' 'low' 'mcv' 'and' 'normal' 'serum' 'iron' 'level' 'were'
+ 'consistent'], heterozygous thalassemia, 0.5587470531463623, ['mg' 'daily' 'thalassemia' 'low' 'mcv' 'and' 'normal' 'serum' 'iron'
+ 'level'], epsilon gamma delta beta^0^ thalassemia, 0.461209774017334, ['of' 'thalassemia' 'hematocrit' 'on' 'admission' 'was' 'which' 'is'
+ 'relatively' 'stable'], delta thalassemia, 0.5333651304244995, ['daily' 'thalassemia' 'low' 'mcv' 'and' 'normal' 'serum' 'iron' 'level'
+ 'were'], alpha^+^ thalassemia, nondeletion type, 0.5152722001075745, ['mg' 'daily' 'thalassemia' 'low' 'mcv' 'and' 'normal' 'serum' 'iron'
+ 'level'], hemoglobin bart's hydrops syndrome, 0.3791068196296692, ['diagnosis' 'of' 'thalassemia' 'hematocrit' 'on' 'admission' 'was'
+ 'which' 'is' 'relatively'], sickle cell-beta-thalassemia, 0.24264921247959137, ['iron' 'level' 'were' 'consistent' 'with' 'known' 'diagnosis' 'of'
+ 'thalassemia' 'hematocrit'], sickle cell anemia with coexistent alpha-thalassemia, 0.4043739140033722, ['iron' 'level' 'were' 'consistent' 'with' 'known' 'diagnosis' 'of'
+ 'thalassemia' 'hematocrit'], sickle cell-thalassemia disease, 0.3042517304420471, ['iron' 'level' 'were' 'consistent' 'with' 'known' 'diagnosis' 'of'
+ 'thalassemia' 'hematocrit'], alpha thalassemia, 0.5456538796424866, ['daily' 'thalassemia' 'low' 'mcv' 'and' 'normal' 'serum' 'iron' 'level'
+ 'were'], delta beta^0^ thalassemia, 0.5065438151359558, ['daily' 'thalassemia' 'low' 'mcv' 'and' 'normal' 'serum' 'iron' 'level'
+ 'were'], beta^+^ thalassemia, normal hb a>2<, type 2, 0.5919318199157715, ['mg' 'daily' 'thalassemia' 'low' 'mcv' 'and' 'normal' 'serum' 'iron'
+ 'level'], sickle cell-beta^0^-thalassemia, 0.24264921247959137, ['iron' 'level' 'were' 'consistent' 'with' 'known' 'diagnosis' 'of'
+ 'thalassemia' 'hematocrit'], a>gamma< beta^+^ hpfh and beta^0^ thalassemia in cis, 0.4709007143974304, ['mg' 'daily' 'thalassemia' 'low' 'mcv' 'and' 'normal' 'serum' 'iron'
+ 'level'], thalassemia major, 0.5749636292457581, ['mg' 'daily' 'thalassemia' 'low' 'mcv' 'and' 'normal' 'serum' 'iron'
+ 'level'], hpfh linked to beta-globulin gene cluster, 0.20690345764160156, ['family' 'history' 'positive' 'for' 'diabetes' 'in' 'her' 'sister' 'and'
+ 'cad'], alpha^+^ thalassemia, 0.5456538796424866, ['daily' 'thalassemia' 'low' 'mcv' 'and' 'normal' 'serum' 'iron' 'level'
+ 'were'], alpha trait thalassemia, 0.5124875903129578, ['thalassemia' 'low' 'mcv' 'and' 'normal' 'serum' 'iron' 'level' 'were'
+ 'consistent'], beta thalassemia trait, 0.5582890510559082, ['mg' 'daily' 'thalassemia' 'low' 'mcv' 'and' 'normal' 'serum' 'iron'
+ 'level'], acquired hemoglobin h disease, 0.38706523180007935, ['iron' 'level' 'were' 'consistent' 'with' 'known' 'diagnosis' 'of'
+ 'thalassemia' 'hematocrit'], sickle cell trait with coexistent alpha-thalassemia, 0.39149728417396545, ['with' 'known' 'diagnosis' 'of' 'thalassemia' 'hematocrit' 'on'
+ 'admission' 'was' 'which'], alpha thalassemia-2 trait, 0.1964111328125, ['thalassemia' 'low' 'mcv' 'and' 'normal' 'serum' 'iron' 'level' 'were'
+ 'consistent'], thalassemia intermedia, 0.5137702226638794, ['mg' 'daily' 'thalassemia' 'low' 'mcv' 'and' 'normal' 'serum' 'iron'
+ 'level'], hemoglobin h disease, 0.3930344879627228, ['iron' 'level' 'were' 'consistent' 'with' 'known' 'diagnosis' 'of'
+ 'thalassemia' 'hematocrit'], beta thalassemia, 0.5624737739562988, ['mg' 'daily' 'thalassemia' 'low' 'mcv' 'and' 'normal' 'serum' 'iron'
+ 'level'], homozygous alpha thalassemia, 0.536273717880249, ['mg' 'daily' 'thalassemia' 'low' 'mcv' 'and' 'normal' 'serum' 'iron'
+ 'level'], alpha^+^ thalassemia, deletion type, 0.4662626087665558, ['mg' 'daily' 'thalassemia' 'low' 'mcv' 'and' 'normal' 'serum' 'iron'
+ 'level'], thalassemia with other hemoglobinopathy, 0.5926592946052551, ['daily' 'thalassemia' 'low' 'mcv' 'and' 'normal' 'serum' 'iron' 'level'
+ 'were'], alpha^0^ thalassemia, 0.5748988389968872, ['mg' 'daily' 'thalassemia' 'low' 'mcv' 'and' 'normal' 'serum' 'iron'
+ 'level'], alpha-beta thalassemia, 0.5089201331138611, ['of' 'thalassemia' 'hematocrit' 'on' 'admission' 'was' 'which' 'is'
+ 'relatively' 'stable'], beta^0^ thalassemia, 0.566844642162323, ['daily' 'thalassemia' 'low' 'mcv' 'and' 'normal' 'serum' 'iron' 'level'
+ 'were'], sickle cell-beta^+^-thalassemia, 0.24264921247959137, ['iron' 'level' 'were' 'consistent' 'with' 'known' 'diagnosis' 'of'
+ 'thalassemia' 'hematocrit'], hemoglobin lepore trait, 0.39913275837898254, ['thalassemia' 'low' 'mcv' 'and' 'normal' 'serum' 'iron' 'level' 'were'
+ 'consistent'], leptocytosis, 0.14174194633960724, ['mg' 'daily' 'thalassemia' 'low' 'mcv' 'and' 'normal' 'serum' 'iron'
+ 'level']]
+2021-11-22 19:03:26,344 Writing the Csv on disk...

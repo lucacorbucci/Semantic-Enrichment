@@ -9,7 +9,7 @@ importlib.reload(lib.embedding_utils)
 
 class ICD9SnomedMapping:
     def extract_relations(
-        self, mapping_dict: dict[str, list[int]], relation_name: str
+        self, mapping_dict, relation_name: str
     ) -> dict[str, set]:
         relation_dict = {}
         for code in mapping_dict.keys():
@@ -55,7 +55,7 @@ class ICD9SnomedMapping:
 
     def compute_relation_embeddings(
         self, mapping_dict, model
-    ) -> dict[str, list[float]]:
+    ):
         embedding_dict = {}
         for code in mapping_dict.keys():
             relations = list(mapping_dict[code])

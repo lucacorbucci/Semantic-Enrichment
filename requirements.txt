@@ -1,7 +1,6 @@
 plotly
 networkx
 pandas
-psycopg2-binary
 numpy
 jupyter
 nltk
@@ -12,3 +11,6 @@ scikit-learn
 theano
 scikit-multilearn
 strsim==0.0.3
+transformers
+torch
+ipykernel
