@@ -3,6 +3,7 @@ notebooks_test/
 .env/
 doctorXAI/
 *.pkl
+.python-version
 
 # Mac OS-specific storage files
 .DS_Store
